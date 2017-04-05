@@ -5,10 +5,11 @@ body {
 }
 
 .container {
-  max-width: 600px;
+  max-width: 1000px;
   margin: 0 auto;
   min-height: 100%;
   background: white;
+  text-align: left;
 }
 
 table {
@@ -25,12 +26,40 @@ td, th {
 
 .toggleButton {
   text-align: right;
+  width: 100%;
+}
+
+.categoryHeader {
+  width: 100%;
 }
 
 col.itemTitle {
-  width: 40%;
+  width: 52%;
 }
 
 col.itemCheckbox {
-  width: 20%;
+  width: 12%;
+}
+
+col.itemAcquisition {
+  width: 12%;
+}
+
+td.itemCheckbox ,th.itemCheckbox {
+  text-align: center;
+}
+
+span.itemDetail {
+  float: right;
+}
+
+button.showHide {
+  background-color: transparent;
+  text-decoration: underline;
+  border: none;
+  cursor: pointer;
+}
+
+button.showHide {
+  outline: none;
 }
