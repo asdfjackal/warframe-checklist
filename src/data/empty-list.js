@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2017.04.05.15.18",
+  version : "2017.04.05.15.18-a",
   lists : [
     {
       title : "Frames",
@@ -395,19 +395,6 @@ let emptyList = {
       ],
     },
     {
-      title : "Arch-melee",
-      list: [
-        { title: "Agkuza", acquired: false, rankThirty: false, researched: false },
-        { title: "Centaur", acquired: false, rankThirty: false, researched: false },
-        { title: "Kaszas", acquired: false, rankThirty: false, researched: false },
-        { title: "Knux", acquired: false, rankThirty: false, researched: false },
-        { title: "Onorix", acquired: false, rankThirty: false, researched: false },
-        { title: "Rathbone", acquired: false, rankThirty: false, researched: false },
-        { title: "Veritux", acquired: false, rankThirty: false, researched: false },
-        { title: "Prisma Veritux", acquired: false, rankThirty: false, researched: false },
-      ],
-    },
-    {
       title : "Arch-guns",
       list: [
         { title: "Corvas", acquired: false, rankThirty: false, researched: false },
@@ -419,6 +406,19 @@ let emptyList = {
         { title: "Imperator Vandal", acquired: false, rankThirty: false, researched: false },
         { title: "Phaedra", acquired: false, rankThirty: false, researched: false },
         { title: "Velocitus", acquired: false, rankThirty: false, researched: false },
+      ],
+    },
+    {
+      title : "Arch-melee",
+      list: [
+        { title: "Agkuza", acquired: false, rankThirty: false, researched: false },
+        { title: "Centaur", acquired: false, rankThirty: false, researched: false },
+        { title: "Kaszas", acquired: false, rankThirty: false, researched: false },
+        { title: "Knux", acquired: false, rankThirty: false, researched: false },
+        { title: "Onorix", acquired: false, rankThirty: false, researched: false },
+        { title: "Rathbone", acquired: false, rankThirty: false, researched: false },
+        { title: "Veritux", acquired: false, rankThirty: false, researched: false },
+        { title: "Prisma Veritux", acquired: false, rankThirty: false, researched: false },
       ],
     },
   ]

@@ -41,19 +41,19 @@ class Item extends Component {
             null
           }
         </td>
-        <td className="itemCheckbox"><input type="checkbox" checked={this.props.item.acquired} onChange={this.toggleAcquired}/></td>
-        <td className="itemCheckbox"><input type="checkbox" checked={this.props.item.rankThirty} onChange={this.toggleRankThirty}/></td>
-        <td className="itemCheckbox">
-          {
-            (this.props.itemData.lab !== undefined) ?
-              <input
-                type="checkbox"
-                checked={this.props.item.researched}
-                onChange={this.toggleResearched}
-              /> :
-              null
-          }
-        </td>
+        <td className="itemCheckbox" onClick={this.toggleAcquired}><input type="checkbox" checked={this.props.item.acquired}/></td>
+        <td className="itemCheckbox" onClick={this.toggleRankThirty}><input type="checkbox" checked={this.props.item.rankThirty}/></td>
+        {
+          (this.props.itemData.lab !== undefined) ?
+          <td className="itemCheckbox" onClick={this.toggleResearched}>
+            <input
+              type="checkbox"
+              checked={this.props.item.researched}
+            />
+          </td> :
+          <td className="itemCheckbox">
+          </td>
+        }
         <td>
           {
             this.props.itemData.acquisition

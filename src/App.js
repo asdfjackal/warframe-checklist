@@ -33,6 +33,9 @@ class App extends Component {
             }
           });
         });
+        list.lists = list.lists.sort((a,b) => {
+          return emptyList.lists.findIndex( x => x.title === a.title) - emptyList.lists.findIndex( x => x.title === b.title);
+        })
         list.version = emptyList.version;
         localStorage.setItem("warframe-item-checklist", JSON.stringify( list ));
       }

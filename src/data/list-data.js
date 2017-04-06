@@ -28,7 +28,7 @@ let listData = {
         { title: "Mirage", acquisition: "Hidden Messages(Quest)" },
         { title: "Nekros", acquisition: "Lephantis" },
         { title: "Nekros Prime", acquisition: "Relic" },
-        { title: "Nidus", acquisition: "Glast Gambit(Quest)/Infested Salvage" },
+        { title: "Nidus", acquisition: "Glast Gambit(Quest)" },
         { title: "Nezha", acquisition: "Tenno Lab", lab: "Tenno Lab" },
         { title: "Nova", acquisition: "Raptors" },
         { title: "Nova Prime", acquisition: "Vaulted", vaulted: true },
