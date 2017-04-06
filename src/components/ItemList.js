@@ -35,7 +35,14 @@ class ItemList extends Component {
   }
 
   render(){
-    const items = this.props.list.list.map((item) =>
+    let items = this.props.list.list;
+    if( this.props.hideMaxRank ){
+      items = items.filter((item) => {
+        return !item.rankThirty;
+      });
+    }
+
+    const itemList = items.map((item) =>
       <Item category={this.props.list.title} item={item} itemData={this.props.itemDataList.list.find(x => x.title === item.title)} updateFunction={this.props.updateFunction} key={item.title}></Item>
     );
 
@@ -65,7 +72,7 @@ class ItemList extends Component {
               </tr>
             </thead>
             <tbody>
-              {items}
+              {itemList}
             </tbody>
           </table>:
           null
@@ -78,6 +85,7 @@ class ItemList extends Component {
 ItemList.propTypes = {
   list: PropTypes.object.isRequired,
   itemDataList: PropTypes.object.isRequired,
+  hideMaxRank: PropTypes.bool.isRequired,
   updateFunction: PropTypes.func.isRequired,
 }
 

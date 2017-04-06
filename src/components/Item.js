@@ -41,13 +41,14 @@ class Item extends Component {
             null
           }
         </td>
-        <td className="itemCheckbox" onClick={this.toggleAcquired}><input type="checkbox" checked={this.props.item.acquired}/></td>
-        <td className="itemCheckbox" onClick={this.toggleRankThirty}><input type="checkbox" checked={this.props.item.rankThirty}/></td>
+        <td className="itemCheckbox" onClick={this.toggleAcquired}><input type="checkbox" readOnly={true} checked={this.props.item.acquired}/></td>
+        <td className="itemCheckbox" onClick={this.toggleRankThirty}><input type="checkbox" readOnly={true} checked={this.props.item.rankThirty}/></td>
         {
           (this.props.itemData.lab !== undefined) ?
           <td className="itemCheckbox" onClick={this.toggleResearched}>
             <input
               type="checkbox"
+              readOnly={true}
               checked={this.props.item.researched}
             />
           </td> :

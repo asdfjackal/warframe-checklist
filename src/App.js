@@ -9,6 +9,7 @@ class App extends Component {
   constructor(props) {
       super(props);
       this.setProperty = this.setProperty.bind(this);
+      this.toggleHideMaxRank = this.toggleHideMaxRank.bind(this);
       var list = emptyList;
       if (typeof(Storage) !== "undefined") {
         if(localStorage.getItem("warframe-item-checklist")){
@@ -42,7 +43,13 @@ class App extends Component {
       this.state = {
         listData,
         list,
+        hideMaxRank: true,
       };
+  }
+
+  toggleHideMaxRank(){
+    let newValue = this.state.hideMaxRank;
+    this.setState({hideMaxRank: !newValue});
   }
 
   setProperty(category, item, property, value) {
@@ -59,7 +66,7 @@ class App extends Component {
 
   render() {
     const subLists = this.state.list.lists.map((list) =>
-      <ItemList list={list} itemDataList={this.state.listData.lists.find(x => x.title === list.title)} updateFunction={this.setProperty} key={list.title}></ItemList>
+      <ItemList list={list} itemDataList={this.state.listData.lists.find(x => x.title === list.title)} hideMaxRank={this.state.hideMaxRank} updateFunction={this.setProperty} key={list.title}></ItemList>
     );
 
     return (
@@ -79,7 +86,12 @@ class App extends Component {
           Contribute at <a href="https://github.com/asdfjackal/warframe-checklist">github</a> or follow development at <a href="https://twitter.com/asdfJackal">twitter</a>
         </p>
         <BrowserCompatability>
-          <div className="container">{subLists}</div>
+          <div>
+            <div className="container">
+              <div className="toggleButton"><input type="checkbox" checked={this.state.hideMaxRank} onChange={this.toggleHideMaxRank}/>Hide Max Rank Items</div>
+              {subLists}
+            </div>
+          </div>
         </BrowserCompatability>
       </div>
     );
