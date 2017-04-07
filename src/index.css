@@ -67,3 +67,7 @@ button.showHide {
 button.showHide {
   outline: none;
 }
+
+i.alert {
+  color: red;
+}
