@@ -35,7 +35,15 @@ class ItemList extends Component {
   }
 
   render(){
-    let items = this.props.list.list;
+    let items = this.props.list.list.sort((a, b) => {
+      if (a.title < b.title){
+        return -1;
+      }
+      if (a.title > b.title){
+        return 1;
+      }
+      return 0;
+    });
     if( this.props.hideMaxRank ){
       items = items.filter((item) => {
         return !item.rankThirty;

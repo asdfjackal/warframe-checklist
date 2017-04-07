@@ -18,21 +18,20 @@ class App extends Component {
       }
       if (list.version !== emptyList.version){
         emptyList.lists.forEach((category) => {
-          category.list.forEach((item) => {
+          for( let i = 0; i < category.list.length; i++ ){
             let currentCategory = (list.lists.find(x => x.title === category.title ));
-            if( currentCategory.list.find(x => x.title === item.title ) === undefined ){
-              currentCategory.list.push(item);
-              currentCategory.list = currentCategory.list.sort((a, b) => {
-                if (a.title < b.title){
-                  return -1;
-                }
-                if (a.title > b.title){
-                  return 1;
-                }
-                return 0;
-              });
-            }
-          });
+            if( currentCategory[i] === undefined ){
+              currentCategory.list.push(category.list[i]);
+            }else if( currentCategory[i].title !== category.list[i].title ){
+              currentCategory[i].title = category.list[i].title;
+            }            
+          }
+          // category.list.forEach((item) => {
+          //   let currentCategory = (list.lists.find(x => x.title === category.title ));
+          //   if( currentCategory.list.find(x => x.title === item.title ) === undefined ){
+          //     currentCategory.list.push(item);
+          //   }
+          // });
         });
         list.lists = list.lists.sort((a,b) => {
           return emptyList.lists.findIndex( x => x.title === a.title) - emptyList.lists.findIndex( x => x.title === b.title);
