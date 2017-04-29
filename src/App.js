@@ -74,10 +74,9 @@ class App extends Component {
         <div className="App-header">
           <h2>Warframe Checklist</h2>
           <p>Last Updated For:</p>
-          <p>OCTAVIA'S ANTHEM | 2017.04.05.15.18</p>
+          <p>OCTAVIA'S ANTHEM | 2017.04.27.14.10</p>
         </div>
         <br />
-        <i className="alert">Attention Tenno: asdfjackal is an idiot that broke everything. If you used this app between 8:00PM and 8:30PM EST on 4/6/2017 your local store is probably broken. I'm gonna set up a staging environment so this doesn't happen again.</i><br /><br />
         <i>Please Note: Clearing your Cache or Cookies will delete your progress.</i><br />
         <i>WARNING: I am still fixing bugs and data may sometimes become corrupted or lost</i><br/ >
         <i>If this happens please reset by clicking here: <button onClick={this.reset}>Reset Local Storage</button></i><br/ >

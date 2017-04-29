@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2017.04.05.15.18-c",
+  version : "2017.04.27.14.10-a",
   lists : [
     {
       title : "Frames",
@@ -182,7 +182,7 @@ let emptyList = {
         { title: "Cestra", acquired: false, rankThirty: false, researched: false },
         { title: "Despair", acquired: false, rankThirty: false, researched: false },
         { title: "Detron", acquired: false, rankThirty: false, researched: false },
-        { title: "Detron Mara", acquired: false, rankThirty: false, researched: false },
+        { title: "Mara Detron", acquired: false, rankThirty: false, researched: false },
         { title: "Dex Furis", acquired: false, rankThirty: false, researched: false },
         { title: "Dual Cestra", acquired: false, rankThirty: false, researched: false },
         { title: "Dual Toxocyst", acquired: false, rankThirty: false, researched: false },

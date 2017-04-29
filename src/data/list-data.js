@@ -181,7 +181,7 @@ let listData = {
         { title: "Cestra", acquisition: "Market", mr: 4 },
         { title: "Despair", acquisition: "Stalker" },
         { title: "Detron", acquisition: "Zanuka Hunter" },
-        { title: "Detron Mara", acquisition: "Baro Ki'Teer" },
+        { title: "Mara Detron", acquisition: "Baro Ki'Teer" },
         { title: "Dex Furis", acquisition: "Anniversary" },
         { title: "Dual Cestra", acquisition: "Market", mr: 4 },
         { title: "Dual Toxocyst", acquisition: "Bio Lab", lab: "Bio Lab", mr: 8 },
