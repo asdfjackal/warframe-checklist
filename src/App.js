@@ -77,6 +77,7 @@ class App extends Component {
           <p>OCTAVIA'S ANTHEM | 2017.04.27.14.10</p>
         </div>
         <br />
+        <i className="alert">Attention Tenno: The developers of this tool are taking a break from Warframe until further notice. If you notice an item is missing please contact asdfJackal on twitter or the github repository and we will add it ASAP. </i><br /><br />
         <i>Please Note: Clearing your Cache or Cookies will delete your progress.</i><br />
         <i>WARNING: I am still fixing bugs and data may sometimes become corrupted or lost</i><br/ >
         <i>If this happens please reset by clicking here: <button onClick={this.reset}>Reset Local Storage</button></i><br/ >
