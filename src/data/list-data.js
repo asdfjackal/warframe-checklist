@@ -116,7 +116,7 @@ let listData = {
         { title: "Prisma Grakata", acquisition: "Baro Ki'Teer" },
         { title: "Prisma Tetra", acquisition: "Baro Ki'Teer", mr: 4 },
         { title: "Quanta", acquisition: "Energy Lab", lab: "Energy Lab", mr: 4 },
-        { title: "Quanta Vandal", acquisition: "Unobtainable", unobtainable: true, mr: 4 },
+        { title: "Quanta Vandal", acquisition: "Baro Ki'Teer", mr: 4 },
         { title: "Rakta Cernos", acquisition: "Red Veil(Syndicate)", mr: 12 },
         { title: "Rubico", acquisition: "Market", mr: 5 },
         { title: "Sancti Tigris", acquisition: "New Loka(Syndicate)", mr: 12 },
@@ -149,6 +149,7 @@ let listData = {
         { title: "Vulkar Wraith", acquisition: "Baro Ki'Teer", mr: 7 },
         { title: "Zarr", acquisition: "Market" },
         { title: "Zhuge", acquisition: "Market" },
+        { title: "Supra Vandal", acquisition: "Ambulas Reborn", mr: 10 },
       ],
     },
     {
@@ -233,7 +234,7 @@ let listData = {
         { title: "Vasto Prime", acquisition: "Vaulted", vaulted: true },
         { title: "Vaykor Marelok", acquisition: "Steel Meridian(Syndicate)", mr: 6 },
         { title: "Viper", acquisition: "Market" },
-        { title: "Wraith Twin Vipers", acquisition: "Invasion" },
+        { title: "Twin Vipers Wraith", acquisition: "Invasion" },
       ],
     },
     {
@@ -355,6 +356,7 @@ let listData = {
         { title: "Venka Prime", acquisition: "Relic", mr: 8 },
         { title: "War", acquisition: "Shadow Stalker", mr: 10 },
         { title: "Zenistar", acquisition: "Daily Login"  },
+        { title: "Prisma Obex", acquisition: "Baro Ki'Teer" },
       ],
     },
     {
