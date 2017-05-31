@@ -4,7 +4,7 @@ let listData = {
       title : "Frames",
       list: [
         { title: "Ash", acquisition: "Manics" },
-        { title: "Ash Prime", acquisition: "Relic" },
+        { title: "Ash Prime", acquisition: "Vaulted", vaulted: true },
         { title: "Atlas", acquisition: "Jordas Golem" },
         { title: "Banshee", acquisition: "Tenno Lab", lab: "Tenno Lab" },
         { title: "Banshee Prime", acquisition: "Relic", mr: 8 },
@@ -51,6 +51,7 @@ let listData = {
         { title: "Volt Prime", acquisition: "Vaulted", vaulted: true },
         { title: "Wukong", acquisition: "Tenno Lab", lab: "Tenno Lab" },
         { title: "Zephyr", acquisition: "Tenno Lab", lab: "Tenno Lab" },
+        { title: "Oberon Prime", acquisition: "Relic", mr: 8 },
       ],
     },
     {
@@ -144,12 +145,13 @@ let listData = {
         { title: "Torid", acquisition: "Bio Lab", lab: "Bio Lab", mr: 4 },
         { title: "Vaykor Hek", acquisition: "Steel Meridian(Syndicate)", mr: 12 },
         { title: "Vectis", acquisition: "Market", mr: 3 },
-        { title: "Vectis Prime", acquisition: "Relic", mr: 3 },
+        { title: "Vectis Prime", acquisition: "Vaulted", vaulted: true, mr: 3 },
         { title: "Vulkar", acquisition: "Market" },
         { title: "Vulkar Wraith", acquisition: "Baro Ki'Teer", mr: 7 },
         { title: "Zarr", acquisition: "Market" },
         { title: "Zhuge", acquisition: "Market" },
         { title: "Supra Vandal", acquisition: "Ambulas Reborn", mr: 10 },
+        { title: "Sybaris Prime", acquisition: "Relic", mr: 12 },
       ],
     },
     {
@@ -357,6 +359,7 @@ let listData = {
         { title: "War", acquisition: "Shadow Stalker", mr: 10 },
         { title: "Zenistar", acquisition: "Daily Login"  },
         { title: "Prisma Obex", acquisition: "Baro Ki'Teer" },
+        { title: "Silva & Aegis Prime", acquisition: "Relic", mr: 12},
       ],
     },
     {
@@ -366,7 +369,7 @@ let listData = {
         { title: "Djinn", acquisition: "Bio Lab", lab: "Bio Lab" },
         { title: "Helios", acquisition: "Energy Lab", lab: "Energy Lab" },
         { title: "Carrier", acquisition: "Market" },
-        { title: "Carrier Prime", acquisition: "Relic" },
+        { title: "Carrier Prime", acquisition: "Vaulted", vaulted: true },
         { title: "Dethcube", acquisition: "Market" },
         { title: "Shade", acquisition: "Market" },
         { title: "Diriga", acquisition: "Market" },
