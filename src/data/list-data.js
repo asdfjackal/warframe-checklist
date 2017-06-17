@@ -237,6 +237,7 @@ let listData = {
         { title: "Vaykor Marelok", acquisition: "Steel Meridian(Syndicate)", mr: 6 },
         { title: "Viper", acquisition: "Market" },
         { title: "Twin Vipers Wraith", acquisition: "Invasion" },
+        { title: "Cycron", acquisition: "Energy Lab", lab: "Energy Lab", mr: 9 },
       ],
     },
     {

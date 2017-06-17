@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2017.05.31.15.04",
+  version : "2017.06.15.19.21",
   lists : [
     {
       title : "Frames",
@@ -238,6 +238,7 @@ let emptyList = {
         { title: "Vaykor Marelok", acquired: false, rankThirty: false, researched: false },
         { title: "Viper", acquired: false, rankThirty: false, researched: false },
         { title: "Twin Vipers Wraith", acquired: false, rankThirty: false, researched: false },
+        { title: "Cycron", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
