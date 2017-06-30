@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2017.06.15.19.21",
+  version : "2017.06.29.17.07",
   lists : [
     {
       title : "Frames",
@@ -53,6 +53,7 @@ let emptyList = {
         { title: "Wukong", acquired: false, rankThirty: false, researched: false },
         { title: "Zephyr", acquired: false, rankThirty: false, researched: false },
         { title: "Oberon Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Harrow", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -239,6 +240,7 @@ let emptyList = {
         { title: "Viper", acquired: false, rankThirty: false, researched: false },
         { title: "Twin Vipers Wraith", acquired: false, rankThirty: false, researched: false },
         { title: "Cycron", acquired: false, rankThirty: false, researched: false },
+        { title: "Knell", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -362,6 +364,7 @@ let emptyList = {
         { title: "Zenistar", acquired: false, rankThirty: false, researched: false },
         { title: "Prisma Obex", acquired: false, rankThirty: false, researched: false },
         { title: "Silva & Aegis Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Scourge", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {

@@ -52,6 +52,7 @@ let listData = {
         { title: "Wukong", acquisition: "Tenno Lab", lab: "Tenno Lab" },
         { title: "Zephyr", acquisition: "Tenno Lab", lab: "Tenno Lab" },
         { title: "Oberon Prime", acquisition: "Relic", mr: 8 },
+        { title: "Harrow", acquisition: "Chains of Harrow(Quest)"},
       ],
     },
     {
@@ -238,6 +239,7 @@ let listData = {
         { title: "Viper", acquisition: "Market" },
         { title: "Twin Vipers Wraith", acquisition: "Invasion" },
         { title: "Cycron", acquisition: "Energy Lab", lab: "Energy Lab", mr: 9 },
+        { title: "Knell", acquisition: "Market", mr: 10 },
       ],
     },
     {
@@ -361,6 +363,7 @@ let listData = {
         { title: "Zenistar", acquisition: "Daily Login"  },
         { title: "Prisma Obex", acquisition: "Baro Ki'Teer" },
         { title: "Silva & Aegis Prime", acquisition: "Relic", mr: 12},
+        { title: "Scourge", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 6},
       ],
     },
     {
