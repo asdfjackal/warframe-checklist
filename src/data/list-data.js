@@ -153,6 +153,7 @@ let listData = {
         { title: "Zhuge", acquisition: "Market" },
         { title: "Supra Vandal", acquisition: "Ambulas Reborn", mr: 10 },
         { title: "Sybaris Prime", acquisition: "Relic", mr: 12 },
+        { title: "Scourge", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 6},
       ],
     },
     {
@@ -363,7 +364,6 @@ let listData = {
         { title: "Zenistar", acquisition: "Daily Login"  },
         { title: "Prisma Obex", acquisition: "Baro Ki'Teer" },
         { title: "Silva & Aegis Prime", acquisition: "Relic", mr: 12},
-        { title: "Scourge", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 6},
       ],
     },
     {
