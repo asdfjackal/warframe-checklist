@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2017.06.29.17.07",
+  version : "2017.06.30.15.57",
   lists : [
     {
       title : "Frames",
@@ -154,6 +154,7 @@ let emptyList = {
         { title: "Zhuge", acquired: false, rankThirty: false, researched: false },
         { title: "Supra Vandal", acquired: false, rankThirty: false, researched: false },
         { title: "Sybaris Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Scourge", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -364,7 +365,6 @@ let emptyList = {
         { title: "Zenistar", acquired: false, rankThirty: false, researched: false },
         { title: "Prisma Obex", acquired: false, rankThirty: false, researched: false },
         { title: "Silva & Aegis Prime", acquired: false, rankThirty: false, researched: false },
-        { title: "Scourge", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
