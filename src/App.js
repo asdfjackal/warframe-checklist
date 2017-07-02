@@ -79,7 +79,7 @@ class App extends Component {
         <i className="alert">Attention Tenno: The developers of this tool are taking a break from Warframe until further notice. If you notice an item is missing please contact asdfJackal on twitter or the github repository and we will add it ASAP. </i><br /><br />
 
         <i className="alert">If you live under a rock for some reason and you have Twitch/Amazon prime make sure to get your free Frost Prime</i><br /><br />
-        <i className="alert">ALERT: Scourge was accidentally added to the wrong category. If you used the checklist since Chains of Harrow items were added, you may have to recheck the melee categories of the list. Sorry for this incident.</i><br /><br />
+        <i className="alert">ALERT: Scourge was accidentally added to the wrong category. If you used the checklist since Chains of Harrow items were added, you will have to reset your local storage. I am very sorry for inconveniencing you.</i><br /><br />
 
         <i>Please Note: Clearing your Cache or Cookies will delete your progress.</i><br />
         <i>WARNING: I am still fixing bugs and data may sometimes become corrupted or lost</i><br/ >
