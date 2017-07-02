@@ -21,7 +21,6 @@ class App extends Component {
         emptyList.lists.forEach((category) => {
           for( let i = 0; i < category.list.length; i++ ){
             let currentCategory = (list.lists.find(x => x.title === category.title ));
-            console.log(currentCategory[i]);
             if( !currentCategory.list[i] ){
               currentCategory.list.push(category.list[i]);
             }else if( currentCategory.list[i].title !== category.list[i].title ){
@@ -74,12 +73,13 @@ class App extends Component {
         <div className="App-header">
           <h2>Warframe Checklist</h2>
           <p>Last Updated For:</p>
-          <p>CHAINS OF HARROW | 2017.06.29.17.07</p>
+          <p>CHAINS OF HARROW | 2017.06.30.15.57</p>
         </div>
         <br />
         <i className="alert">Attention Tenno: The developers of this tool are taking a break from Warframe until further notice. If you notice an item is missing please contact asdfJackal on twitter or the github repository and we will add it ASAP. </i><br /><br />
 
         <i className="alert">If you live under a rock for some reason and you have Twitch/Amazon prime make sure to get your free Frost Prime</i><br /><br />
+        <i className="alert">ALERT: Scourge was accidentally added to the wrong category. If you used the checklist since Chains of Harrow items were added, you may have to recheck the melee categories of the list. Sorry for this incident.</i><br /><br />
 
         <i>Please Note: Clearing your Cache or Cookies will delete your progress.</i><br />
         <i>WARNING: I am still fixing bugs and data may sometimes become corrupted or lost</i><br/ >
