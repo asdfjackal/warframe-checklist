@@ -154,6 +154,7 @@ let listData = {
         { title: "Supra Vandal", acquisition: "Ambulas Reborn", mr: 10 },
         { title: "Sybaris Prime", acquisition: "Relic", mr: 12 },
         { title: "Scourge", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 6},
+	{ title: "Zenith", acquisition: "Daily Login" },
       ],
     },
     {
@@ -241,6 +242,7 @@ let listData = {
         { title: "Twin Vipers Wraith", acquisition: "Invasion" },
         { title: "Cycron", acquisition: "Energy Lab", lab: "Energy Lab", mr: 9 },
         { title: "Knell", acquisition: "Market", mr: 10 },
+	{ title: "Zakti", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 6 },
       ],
     },
     {
@@ -364,6 +366,7 @@ let listData = {
         { title: "Zenistar", acquisition: "Daily Login"  },
         { title: "Prisma Obex", acquisition: "Baro Ki'Teer" },
         { title: "Silva & Aegis Prime", acquisition: "Relic", mr: 12},
+	{ title: "Guandao", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 4 },
       ],
     },
     {
