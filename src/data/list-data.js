@@ -366,7 +366,8 @@ let listData = {
         { title: "Zenistar", acquisition: "Daily Login"  },
         { title: "Prisma Obex", acquisition: "Baro Ki'Teer" },
         { title: "Silva & Aegis Prime", acquisition: "Relic", mr: 12},
-	{ title: "Guandao", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 4 },
+        { title: "Guandao", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 4 },
+        { title: "Endura", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 7 },
       ],
     },
     {
