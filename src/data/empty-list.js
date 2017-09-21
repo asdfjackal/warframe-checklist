@@ -54,7 +54,7 @@ let emptyList = {
         { title: "Zephyr", acquired: false, rankThirty: false, researched: false },
         { title: "Oberon Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Harrow", acquired: false, rankThirty: false, researched: false },
-	{ title: "Hydroid Prime", acquired: false, rankThirty: false, researched: false },
+      	{ title: "Hydroid Prime", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -156,9 +156,9 @@ let emptyList = {
         { title: "Supra Vandal", acquired: false, rankThirty: false, researched: false },
         { title: "Sybaris Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Scourge", acquired: false, rankThirty: false, researched: false },
-	{ title: "Zenith", acquired: false, rankThirty: false, researched: false },
-	{ title: "Arca Plasmor", acquired: false, rankThirty: false, researched: false },
-	{ title: "Lenz", acquired: false, rankThirty: false, researched: false },
+      	{ title: "Zenith", acquired: false, rankThirty: false, researched: false },
+      	{ title: "Arca Plasmor", acquired: false, rankThirty: false, researched: false },
+      	{ title: "Lenz", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -247,8 +247,8 @@ let emptyList = {
         { title: "Cycron", acquired: false, rankThirty: false, researched: false },
         { title: "Knell", acquired: false, rankThirty: false, researched: false },
         { title: "Zakti", acquired: false, rankThirty: false, researched: false },
-	{ title: "Arca Scisco", acquired: false, rankThirty: false, researched: false },
-	{ title: "Ballistica Prime", acquired: false, rankThirty: false, researched: false },
+      	{ title: "Arca Scisco", acquired: false, rankThirty: false, researched: false },
+      	{ title: "Ballistica Prime", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -374,8 +374,8 @@ let emptyList = {
         { title: "Silva & Aegis Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Guandao", acquired: false, rankThirty: false, researched: false },
         { title: "Endura", acquired: false, rankThirty: false, researched: false },
-        { title: "Nami Skyla Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Arca Titron", acquired: false, rankThirty: false, researched: false },
+        { title: "Nami Skyla Prime", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
