@@ -42,7 +42,7 @@ let listData = {
         { title: "Saryn Prime", acquisition: "Relic" },
         { title: "Titania", acquisition: "The Silver Grove(Quest)" },
         { title: "Trinity", acquisition: "Captain Vor" },
-        { title: "Trinity Prime", acquisition: "Relic" },
+        { title: "Trinity Prime", acquisition: "Vaulted", vaulted: true },
         { title: "Valkyr", acquisition: "Alad V" },
         { title: "Valkyr Prime", acquisition: "Relic" },
         { title: "Vauban", acquisition: "Alerts" },
@@ -53,6 +53,7 @@ let listData = {
         { title: "Zephyr", acquisition: "Tenno Lab", lab: "Tenno Lab" },
         { title: "Oberon Prime", acquisition: "Relic", mr: 8 },
         { title: "Harrow", acquisition: "Chains of Harrow(Quest)"},
+	{ title: "Hydroid Prime", acquisition: "Relic" },
       ],
     },
     {
@@ -155,6 +156,8 @@ let listData = {
         { title: "Sybaris Prime", acquisition: "Relic", mr: 12 },
         { title: "Scourge", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 6},
 	{ title: "Zenith", acquisition: "Daily Login" },
+	{ title: "Arca Plasmor", acquisition: "Energy Lab", lab: "Energy Lab", mr: 10 },
+	{ title: "Lenz", acquisition: "Energy Lab", lab: "Energy Lab", mr: 8 },
       ],
     },
     {
@@ -243,6 +246,8 @@ let listData = {
         { title: "Cycron", acquisition: "Energy Lab", lab: "Energy Lab", mr: 9 },
         { title: "Knell", acquisition: "Market", mr: 10 },
 	{ title: "Zakti", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 6 },
+	{ title: "Arca Scisco", acquisition: "Energy Lab", lab: "Energy Lab", mr: 10 },
+	{ title: "Ballistica Prime", acquisition: "Relic", mr: 7 },
       ],
     },
     {
@@ -275,7 +280,7 @@ let listData = {
         { title: "Dual Heat Swords", acquisition: "Market" },
         { title: "Dual Ichor", acquisition: "Bio Lab", mr: 6 },
         { title: "Dual Kamas", acquisition: "Market", mr: 1 },
-        { title: "Dual Kamas Prime", acquisition: "Relic", mr: 6 },
+        { title: "Dual Kamas Prime", acquisition: "Vaulted", vaulted: true, mr: 6 },
         { title: "Dual Raza", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 6 },
         { title: "Dual Skana", acquisition: "Market" },
         { title: "Dual Zoren", acquisition: "Market", mr: 2 },
@@ -368,6 +373,8 @@ let listData = {
         { title: "Silva & Aegis Prime", acquisition: "Relic", mr: 12},
         { title: "Guandao", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 4 },
         { title: "Endura", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 7 },
+	{ title: "Arca Titron", acquisition: "Energy Lab", lab: "Energy Lab", mr: 10 },
+	{ title: "Nami Skyla Prime", acquisition: "Relic", mr: 11 },
       ],
     },
     {
@@ -385,7 +392,6 @@ let listData = {
         { title: "Taxon", acquisition: "Venus Junction" },
         { title: "Wyrm", acquisition: "Market" },
         { title: "Wyrm Prime", acquisition: "Vaulted", vaulted: true },
-
         { title: "Adarza Kavat", acquisition: "Incubator Segment" },
         { title: "Chesa Kubrow", acquisition: "Incubator Segment" },
         { title: "Helminth Charger", acquisition: "Incubator Segment" },
