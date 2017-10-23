@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2017.09.11.18.35",
+  version : "2017.09.11.18.35-poe-1",
   lists : [
     {
       title : "Frames",
@@ -55,6 +55,7 @@ let emptyList = {
         { title: "Oberon Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Harrow", acquired: false, rankThirty: false, researched: false },
       	{ title: "Hydroid Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Gara", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -158,7 +159,9 @@ let emptyList = {
         { title: "Scourge", acquired: false, rankThirty: false, researched: false },
       	{ title: "Zenith", acquired: false, rankThirty: false, researched: false },
       	{ title: "Arca Plasmor", acquired: false, rankThirty: false, researched: false },
-      	{ title: "Lenz", acquired: false, rankThirty: false, researched: false },
+        { title: "Lenz", acquired: false, rankThirty: false, researched: false },
+        { title: "Argonak", acquired: false, rankThirty: false, researched: false },
+        { title: "Astilla", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -248,7 +251,9 @@ let emptyList = {
         { title: "Knell", acquired: false, rankThirty: false, researched: false },
         { title: "Zakti", acquired: false, rankThirty: false, researched: false },
       	{ title: "Arca Scisco", acquired: false, rankThirty: false, researched: false },
-      	{ title: "Ballistica Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Ballistica Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Fusilai", acquired: false, rankThirty: false, researched: false },
+        { title: "Prisma Angstrum", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -376,6 +381,16 @@ let emptyList = {
         { title: "Endura", acquired: false, rankThirty: false, researched: false },
         { title: "Arca Titron", acquired: false, rankThirty: false, researched: false },
         { title: "Nami Skyla Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Twin Krohkur", acquired: false, rankThirty: false, researched: false },
+        { title: "Jat Kusar", acquired: false, rankThirty: false, researched: false },
+        { title: "Krohkur", acquired: false, rankThirty: false, researched: false },
+        { title: "Volnus", acquired: false, rankThirty: false, researched: false },
+        { title: "Zaw (Balla)", acquired: false, rankThirty: false, researched: false },
+        { title: "Zaw (Ooltha)", acquired: false, rankThirty: false, researched: false },
+        { title: "Zaw (Kronsh)", acquired: false, rankThirty: false, researched: false },
+        { title: "Zaw (Dehtat)", acquired: false, rankThirty: false, researched: false },
+        { title: "Zaw (Mewan)", acquired: false, rankThirty: false, researched: false },
+        { title: "Zaw (Cyath)", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
