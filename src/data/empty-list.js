@@ -117,7 +117,7 @@ let emptyList = {
         { title: "Paris Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Penta", acquired: false, rankThirty: false, researched: false },
         { title: "Phage", acquired: false, rankThirty: false, researched: false },
-        { title: "Prisma Gorgan", acquired: false, rankThirty: false, researched: false },
+        { title: "Prisma Gorgon", acquired: false, rankThirty: false, researched: false },
         { title: "Prisma Grakata", acquired: false, rankThirty: false, researched: false },
         { title: "Prisma Tetra", acquired: false, rankThirty: false, researched: false },
         { title: "Quanta", acquired: false, rankThirty: false, researched: false },
