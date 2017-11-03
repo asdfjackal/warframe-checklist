@@ -73,7 +73,7 @@ class App extends Component {
         <div className="App-header">
           <h2>Warframe Checklist</h2>
           <p>Last Updated For:</p>
-          <p>PLAINS OF EIDOLON | 2017.10.23.17.17</p>
+          <p>PLAINS OF EIDOLON | 2017.10.30.16.01</p>
         </div>
         <br />
         <i className="alert">I belive I have accurately reflected the changes in Plains of Eidolon. From what I can tell from the wiki master progress for Zaw is based on the strike. If this is incorrect open an issue and I will fix it when  can. </i><br /><br />
