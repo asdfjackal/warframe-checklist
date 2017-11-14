@@ -87,7 +87,7 @@ let listData = {
         { title: "Gorgon", acquisition: "Heavy Gunners", mr: 3 },
         { title: "Gorgon Wraith", acquisition: "Razorback Armada", mr: 3 },
         { title: "Grakata", acquisition: "Market" },
-        { title: "Grinklok", acquisition: "Chem Lab", lab: "Chem Lab", mr: 5 },
+        { title: "Grinlok", acquisition: "Chem Lab", lab: "Chem Lab", mr: 5 },
         { title: "Harpak", acquisition: "Market", mr: 3 },
         { title: "Hek", acquisition: "Market", mr: 4 },
         { title: "Hema", acquisition: "Bio Lab", lab: "Bio Lab", mr: 7 },
@@ -390,6 +390,7 @@ let listData = {
         { title: "Zaw (Dehtat)", acquisition: "Hok's Anvil"},
         { title: "Zaw (Mewan)", acquisition: "Hok's Anvil"},
         { title: "Zaw (Cyath)", acquisition: "Hok's Anvil"},
+        { title: "Sigma & Octantis", acquisition: "Daily Login"},
       ],
     },
     {

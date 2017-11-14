@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2017.10.30.16.01",
+  version : "2017.11.06.15.08",
   lists : [
     {
       title : "Frames",
@@ -88,7 +88,7 @@ let emptyList = {
         { title: "Gorgon", acquired: false, rankThirty: false, researched: false },
         { title: "Gorgon Wraith", acquired: false, rankThirty: false, researched: false },
         { title: "Grakata", acquired: false, rankThirty: false, researched: false },
-        { title: "Grinklok", acquired: false, rankThirty: false, researched: false },
+        { title: "Grinlok", acquired: false, rankThirty: false, researched: false },
         { title: "Harpak", acquired: false, rankThirty: false, researched: false },
         { title: "Hek", acquired: false, rankThirty: false, researched: false },
         { title: "Hema", acquired: false, rankThirty: false, researched: false },
@@ -391,6 +391,7 @@ let emptyList = {
         { title: "Zaw (Dehtat)", acquired: false, rankThirty: false, researched: false },
         { title: "Zaw (Mewan)", acquired: false, rankThirty: false, researched: false },
         { title: "Zaw (Cyath)", acquired: false, rankThirty: false, researched: false },
+        { title: "Sigma & Octantis", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {

@@ -73,10 +73,9 @@ class App extends Component {
         <div className="App-header">
           <h2>Warframe Checklist</h2>
           <p>Last Updated For:</p>
-          <p>PLAINS OF EIDOLON | 2017.10.30.16.01</p>
+          <p>PLAINS OF EIDOLON | 2017.11.06.15.08</p>
         </div>
         <br />
-        <i className="alert">I belive I have accurately reflected the changes in Plains of Eidolon. From what I can tell from the wiki master progress for Zaw is based on the strike. If this is incorrect open an issue and I will fix it when  can. </i><br /><br />
         <i className="alert">Attention Tenno: The developers of this tool are taking a break from Warframe until further notice. If you notice an item is missing please contact asdfJackal on twitter or the github repository and we will add it ASAP. </i><br /><br />
 
         <i>Please Note: Clearing your Cache or Cookies will delete your progress.</i><br />
