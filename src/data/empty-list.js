@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2017.11.06.15.08",
+  version : "2017.11.16.17.34",
   lists : [
     {
       title : "Frames",
@@ -392,6 +392,8 @@ let emptyList = {
         { title: "Zaw (Mewan)", acquired: false, rankThirty: false, researched: false },
         { title: "Zaw (Cyath)", acquired: false, rankThirty: false, researched: false },
         { title: "Sigma & Octantis", acquired: false, rankThirty: false, researched: false },
+        { title: "Zaw (Plague Keewar)", acquired: false, rankThirty: false, researched: false },
+        { title: "Zaw (Plague Kripath)", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
