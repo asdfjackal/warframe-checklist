@@ -161,6 +161,7 @@ let listData = {
         { title: "Lenz", acquisition: "Energy Lab", lab: "Energy Lab", mr: 8 },
         { title: "Argonak", acquisition: "Chem Lab", lab: "Chem Lab", mr: 7 },
         { title: "Astilla", acquisition: "Market", mr: 7 },
+        { title: "Baza", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 7 },
       ],
     },
     {
@@ -393,6 +394,7 @@ let listData = {
         { title: "Sigma & Octantis", acquisition: "Daily Login"},
         { title: "Zaw (Plague Keewar)", acquisition: "Operation: Plague Star"},
         { title: "Zaw (Plague Kripath)", acquisition: "Operation: Plague Star"},
+        { title: "Cassowar", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 5 },
       ],
     },
     {

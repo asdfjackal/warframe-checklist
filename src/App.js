@@ -73,7 +73,7 @@ class App extends Component {
         <div className="App-header">
           <h2>Warframe Checklist</h2>
           <p>Last Updated For:</p>
-          <p>PLAINS OF EIDOLON | 2017.11.16.17.34</p>
+          <p>PLAINS OF EIDOLON | 2017.11.23.12.29</p>
         </div>
         <br />
         <i className="alert">Attention Tenno: The developers of this tool are taking a break from Warframe until further notice. If you notice an item is missing please contact asdfJackal on twitter or the github repository and we will add it ASAP. </i><br /><br />
@@ -83,9 +83,7 @@ class App extends Component {
         <i>If this happens please reset by clicking here: <button onClick={this.reset}>Reset Local Storage</button></i><br/ >
         <p className="App-intro">
           Created by asdfjackal and CommissarXyz<br />
-          If you would like to support future versions you can send us stuff in-game using our names above<br />
-          -or-<br />
-          <a href='https://ko-fi.com/A067YUP'>Buy Us Some Plat</a><br />
+          Major thanks to github user <a href="https://github.com/RylaiSlyfe">RylaiSlyfe</a> for helping to keep the list up to date!<br />
           Contribute at <a href="https://github.com/asdfjackal/warframe-checklist">github</a> or follow development at <a href="https://twitter.com/asdfJackal">twitter</a>
         </p>
         <BrowserCompatability>
