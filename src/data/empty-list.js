@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2017.11.30.15.48a",
+  version : "2017.12.12.12.15",
   lists : [
     {
       title : "Frames",
@@ -56,6 +56,7 @@ let emptyList = {
         { title: "Harrow", acquired: false, rankThirty: false, researched: false },
       	{ title: "Hydroid Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Gara", acquired: false, rankThirty: false, researched: false },
+        { title: "Mirage Prime", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -255,6 +256,7 @@ let emptyList = {
         { title: "Ballistica Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Fusilai", acquired: false, rankThirty: false, researched: false },
         { title: "Prisma Angstrum", acquired: false, rankThirty: false, researched: false },
+        { title: "Akbolto Prime", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -396,6 +398,7 @@ let emptyList = {
         { title: "Zaw (Plague Keewar)", acquired: false, rankThirty: false, researched: false },
         { title: "Zaw (Plague Kripath)", acquired: false, rankThirty: false, researched: false },
         { title: "Cassowar", acquired: false, rankThirty: false, researched: false },
+        { title: "Kogake Prime", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
