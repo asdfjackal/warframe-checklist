@@ -459,6 +459,15 @@ let listData = {
         { title: "Velocitus", acquisition:"Tenno Lab", lab: "Tenno Lab" },
       ],
     },
+    {
+      title : "Amps",
+      list: [
+        { title: "Mote", acquisition: "Quill Onkko"},
+        { title: "Raplak", acquisition: "Quill Onkko"},
+        { title: "Shwaak", acquisition: "Quill Onkko"},
+        { title: "Granmu", acquisition: "Quill Onkko"},
+      ],
+    },
   ]
 };
 

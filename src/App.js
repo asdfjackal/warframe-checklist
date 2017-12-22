@@ -21,7 +21,9 @@ class App extends Component {
         emptyList.lists.forEach((category) => {
           for( let i = 0; i < category.list.length; i++ ){
             let currentCategory = (list.lists.find(x => x.title === category.title ));
-            if( !currentCategory.list[i] ){
+            if (currentCategory === undefined){
+              list.lists.push( category );
+            }else if( !currentCategory.list[i] ){
               currentCategory.list.push(category.list[i]);
             }else if( currentCategory.list[i].title !== category.list[i].title ){
               currentCategory.list[i].title = category.list[i].title;
