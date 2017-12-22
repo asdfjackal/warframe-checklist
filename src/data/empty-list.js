@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2017.12.12.12.15",
+  version : "2017.12.21.14.56",
   lists : [
     {
       title : "Frames",
@@ -164,6 +164,8 @@ let emptyList = {
         { title: "Argonak", acquired: false, rankThirty: false, researched: false },
         { title: "Astilla", acquired: false, rankThirty: false, researched: false },
         { title: "Baza", acquired: false, rankThirty: false, researched: false },
+        { title: "Corinth", acquired: false, rankThirty: false, researched: false },
+        { title: "Quartakk", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -257,6 +259,7 @@ let emptyList = {
         { title: "Fusilai", acquired: false, rankThirty: false, researched: false },
         { title: "Prisma Angstrum", acquired: false, rankThirty: false, researched: false },
         { title: "Akbolto Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Stubba", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -399,6 +402,7 @@ let emptyList = {
         { title: "Zaw (Plague Kripath)", acquired: false, rankThirty: false, researched: false },
         { title: "Cassowar", acquired: false, rankThirty: false, researched: false },
         { title: "Kogake Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Gunsen", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {

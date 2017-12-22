@@ -163,6 +163,8 @@ let listData = {
         { title: "Argonak", acquisition: "Chem Lab", lab: "Chem Lab", mr: 7 },
         { title: "Astilla", acquisition: "Market", mr: 7 },
         { title: "Baza", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 7 },
+        { title: "Corinth", acquisition: "Market", mr: 10 },
+        { title: "Quartakk", acquisition: "Ghoul Purge Event", mr: 9 },
       ],
     },
     {
@@ -256,6 +258,7 @@ let listData = {
         { title: "Fusilai", acquisition: "Market", mr: 5 },
         { title: "Prisma Angstrum", acquisition: "Baro Ki'Teer", mr: 4 },
         { title: "Akbolto Prime", acquisition: "Relic", mr: 13 },
+        { title: "Stubba", acquisition: "Ghoul Purge Event", mr: 5 },
       ],
     },
     {
@@ -398,6 +401,7 @@ let listData = {
         { title: "Zaw (Plague Kripath)", acquisition: "Operation: Plague Star"},
         { title: "Cassowar", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 5 },
         { title: "Kogake Prime", acquisition: "Relic", mr: 10 },
+        { title: "Gunsen", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 10 },
       ],
     },
     {
