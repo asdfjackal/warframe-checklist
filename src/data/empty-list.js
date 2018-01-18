@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2017.12.21.14.56",
+  version : "2018.01.11.14.57",
   lists : [
     {
       title : "Frames",
@@ -260,6 +260,7 @@ let emptyList = {
         { title: "Prisma Angstrum", acquired: false, rankThirty: false, researched: false },
         { title: "Akbolto Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Stubba", acquired: false, rankThirty: false, researched: false },
+        { title: "Viper Wraith", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {

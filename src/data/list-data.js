@@ -259,6 +259,7 @@ let listData = {
         { title: "Prisma Angstrum", acquisition: "Baro Ki'Teer", mr: 4 },
         { title: "Akbolto Prime", acquisition: "Relic", mr: 13 },
         { title: "Stubba", acquisition: "Ghoul Purge Event", mr: 5 },
+        { title: "Viper Wraith", acquisition: "Baro Ki'Teer", mr: 0 },
       ],
     },
     {
