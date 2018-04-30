@@ -75,7 +75,7 @@ class App extends Component {
         <div className="App-header">
           <h2>Warframe Checklist</h2>
           <p>Last Updated For:</p>
-          <p>SHRINE OF THE EIDOLON | 2018.03.20.10.15</p>
+          <p>BEASTS OF THE SANCTUARY | 2018.04.21.08.56</p>
         </div>
         <br />
         <i className="alert">Attention Tenno: The developers of this tool are taking a break from Warframe until further notice. If you notice an item is missing please contact asdfJackal on twitter or the github repository and we will add it ASAP. </i><br /><br />

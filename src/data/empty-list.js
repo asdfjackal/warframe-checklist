@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2018.03.20.10.15",
+  version : "2018.04.21.08.56",
   lists : [
     {
       title : "Frames",
@@ -58,6 +58,7 @@ let emptyList = {
         { title: "Gara", acquired: false, rankThirty: false, researched: false },
         { title: "Mirage Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Zephyr Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Khora", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -168,6 +169,7 @@ let emptyList = {
         { title: "Corinth", acquired: false, rankThirty: false, researched: false },
         { title: "Quartakk", acquired: false, rankThirty: false, researched: false },
         { title: "Tiberon Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Veldt", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -263,6 +265,7 @@ let emptyList = {
         { title: "Akbolto Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Stubba", acquired: false, rankThirty: false, researched: false },
         { title: "Viper Wraith", acquired: false, rankThirty: false, researched: false },
+        { title: "Hystrix", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -407,6 +410,10 @@ let emptyList = {
         { title: "Kogake Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Gunsen", acquired: false, rankThirty: false, researched: false },
         { title: "Kronen Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Dual Keres", acquired: false, rankThirty: false, researched: false },
+        { title: "Zaw (Sepfahn)", acquired: false, rankThirty: false, researched: false },
+        { title: "Zaw (Rabvee)", acquired: false, rankThirty: false, researched: false },
+        { title: "Zaw (Dokrahm)", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
