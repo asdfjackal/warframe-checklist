@@ -350,7 +350,7 @@ let listData = {
         { title: "Okina", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 5 },
         { title: "Orthos", acquisition: "Market", mr: 2 },
         { title: "Orthos Prime", acquisition: "Relic", mr: 2 },
-        { title: "Orvius", acquisition: "The War Within(Quest)", mr: 6 },
+        { title: "Orvius", acquisition: "The War Within(Quest) / Cephalon Simaris", mr: 6 },
         { title: "Pangolin Sword", acquisition: "Alert", mr: 2 },
         { title: "Plasma Sword", acquisition: "Alert" },
         { title: "Prisma Dual Cleavers", acquisition: "Baro Ki'Teer", mr: 3 },
