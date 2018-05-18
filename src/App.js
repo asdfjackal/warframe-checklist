@@ -85,7 +85,7 @@ class App extends Component {
         <i>If this happens please reset by clicking here: <button onClick={this.reset}>Reset Local Storage</button></i><br/ >
         <p className="App-intro">
           Created by asdfjackal and CommissarXyz<br />
-          Major thanks to github user <a href="https://github.com/RylaiSlyfe">RylaiSlyfe</a> for helping to keep the list up to date!<br />
+          Major thanks to github users <a href="https://github.com/RylaiSlyfe">RylaiSlyfe</a> and <a href="https://github.com/pgbconfirmit">pgbconfirmit</a> for helping to keep the list up to date!<br />
           Contribute at <a href="https://github.com/asdfjackal/warframe-checklist">github</a> or follow development at <a href="https://twitter.com/asdfJackal">twitter</a>
         </p>
         <BrowserCompatability>

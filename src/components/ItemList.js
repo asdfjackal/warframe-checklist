@@ -73,9 +73,9 @@ class ItemList extends Component {
             <thead>
               <tr>
                 <th>Item</th>
-                <th className="itemCheckbox">Aquired</th>
+                <th className="itemCheckbox">Aquired(<span className="tooltip" title="Check this box when your have finished fabricating the item of have aquired it by other means">?</span>)</th>
                 <th className="itemCheckbox">Rank 30</th>
-                <th className="itemCheckbox">Researched</th>
+                <th className="itemCheckbox">Researched(<span className="tooltip" title="Check this when your clan has finished researching the item">?</span>)</th>
                 <th>Acquisition</th>
               </tr>
             </thead>

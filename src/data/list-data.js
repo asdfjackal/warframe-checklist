@@ -41,7 +41,7 @@ let listData = {
         { title: "Saryn", acquisition: "Kela De Thaym" },
         { title: "Saryn Prime", acquisition: "Vaulted", vaulted: true },
         { title: "Titania", acquisition: "The Silver Grove(Quest)" },
-        { title: "Trinity", acquisition: "Captain Vor" },
+        { title: "Trinity", acquisition: "Ambulas" },
         { title: "Trinity Prime", acquisition: "Vaulted", vaulted: true },
         { title: "Valkyr", acquisition: "Alad V" },
         { title: "Valkyr Prime", acquisition: "Relic" },

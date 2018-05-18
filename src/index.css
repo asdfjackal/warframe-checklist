@@ -57,6 +57,10 @@ span.itemDetail {
   float: right;
 }
 
+span.tooltip {
+  color: #888;
+}
+
 button.showHide {
   background-color: transparent;
   text-decoration: underline;
