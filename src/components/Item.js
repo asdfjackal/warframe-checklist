@@ -1,4 +1,5 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 
 class Item extends Component {
   constructor(props){
@@ -19,6 +20,14 @@ class Item extends Component {
   toggleResearched(){
     this.props.updateFunction(this.props.category, this.props.item.title, "researched", !this.props.item.researched)
   }
+
+  acquisitionColumns = () => (
+      <td>
+        {
+          this.props.itemData.acquisition
+        }
+      </td>
+    )
 
   render(){
     return (
@@ -55,11 +64,7 @@ class Item extends Component {
           <td className="itemCheckbox">
           </td>
         }
-        <td>
-          {
-            this.props.itemData.acquisition
-          }
-        </td>
+        {this.acquisitionColumns()}
       </tr>
     );
   }

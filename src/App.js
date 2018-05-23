@@ -3,6 +3,7 @@ import emptyList from './data/empty-list.js';
 import listData from './data/list-data.js';
 import BrowserCompatability from './components/BrowserCompatability.js';
 import ItemList from './components/ItemList.js'
+import ComponentItemList from './components/ComponentItemList.js'
 import './App.css';
 
 class App extends Component {
@@ -66,8 +67,17 @@ class App extends Component {
   }
 
   render() {
-    const subLists = this.state.list.lists.map((list) =>
-      <ItemList list={list} itemDataList={this.state.listData.lists.find(x => x.title === list.title)} hideMaxRank={this.state.hideMaxRank} updateFunction={this.setProperty} key={list.title}></ItemList>
+    const subLists = this.state.list.lists.map((list) => {
+        const ListComponent = (list.title === "Frames") ? ComponentItemList : ItemList;
+        return <ListComponent
+                  list={list}
+                  itemDataList={this.state.listData.lists.find(x => x.title === list.title)}
+                  hideMaxRank={this.state.hideMaxRank}
+                  updateFunction={this.setProperty}
+                  key={list.title}>
+               </ListComponent>
+      }
+
     );
 
     return (

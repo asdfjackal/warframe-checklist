@@ -1,4 +1,5 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import Item from './Item.js';
 
 class ItemList extends Component {
@@ -34,6 +35,21 @@ class ItemList extends Component {
     return <div>{acquired}/{total} Acquired | {rankThirty}/{total} Rank 30 | {researched}/{researchTotal} Researched</div>;
   }
 
+  itemList = (items) => {
+    return items.map((item) =>
+      <Item category={this.props.list.title}
+        item={item}
+        itemData={this.props.itemDataList.list.find(x => x.title === item.title)}
+        updateFunction={this.props.updateFunction}
+        key={item.title}>
+      </Item>
+    )
+  }
+
+  acquisitionColumns = () => (
+      <th>Acquisition</th>
+    )
+
   render(){
     let items = this.props.list.list.sort((a, b) => {
       if (a.title < b.title){
@@ -49,10 +65,6 @@ class ItemList extends Component {
         return !item.rankThirty;
       });
     }
-
-    const itemList = items.map((item) =>
-      <Item category={this.props.list.title} item={item} itemData={this.props.itemDataList.list.find(x => x.title === item.title)} updateFunction={this.props.updateFunction} key={item.title}></Item>
-    );
 
     return (
       <div>
@@ -76,11 +88,11 @@ class ItemList extends Component {
                 <th className="itemCheckbox">Aquired(<span className="tooltip" title="Check this box when your have finished fabricating the item of have aquired it by other means">?</span>)</th>
                 <th className="itemCheckbox">Rank 30</th>
                 <th className="itemCheckbox">Researched(<span className="tooltip" title="Check this when your clan has finished researching the item">?</span>)</th>
-                <th>Acquisition</th>
+                {this.acquisitionColumns()}
               </tr>
             </thead>
             <tbody>
-              {itemList}
+              {this.itemList(items)}
             </tbody>
           </table>:
           null
