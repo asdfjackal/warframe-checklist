@@ -203,7 +203,7 @@ let listData = {
         { title: "Detron", acquisition: "Zanuka Hunter", mr: 6 },
         { title: "Mara Detron", acquisition: "Baro Ki'Teer", mr: 9 },
         { title: "Dex Furis", acquisition: "Anniversary", mr: 10 },
-        { title: "Dual Cestra", acquisition: "Market", mr: 7 },
+        { title: "Dual Cestra", acquisition: "Energy Lab", lab: "Energy Lab", mr: 7 },
         { title: "Dual Toxocyst", acquisition: "Bio Lab", lab: "Bio Lab", mr: 11 },
         { title: "Embolist", acquisition: "Bio Lab", lab: "Bio Lab", mr: 9 },
         { title: "Euphona Prime", acquisition: "Relic", mr: 14 },
