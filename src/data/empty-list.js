@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2018.04.21.08.56",
+  version : "2018.10.12.17.40",
   lists : [
     {
       title : "Frames",
@@ -59,6 +59,10 @@ let emptyList = {
         { title: "Mirage Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Zephyr Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Khora", acquired: false, rankThirty: false, researched: false },
+        { title: "Chroma Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Excalibur Umbra", acquired: false, rankThirty: false, researched: false },
+        { title: "Limbo Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Revenant", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -170,6 +174,8 @@ let emptyList = {
         { title: "Quartakk", acquired: false, rankThirty: false, researched: false },
         { title: "Tiberon Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Veldt", acquired: false, rankThirty: false, researched: false },
+        { title: "Rubico Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Phantasma", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -266,6 +272,8 @@ let emptyList = {
         { title: "Stubba", acquired: false, rankThirty: false, researched: false },
         { title: "Viper Wraith", acquired: false, rankThirty: false, researched: false },
         { title: "Hystrix", acquired: false, rankThirty: false, researched: false },
+        { title: "Zylok", acquired: false, rankThirty: false, researched: false },
+        { title: "Pyrana Prime", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -414,6 +422,12 @@ let emptyList = {
         { title: "Zaw (Sepfahn)", acquired: false, rankThirty: false, researched: false },
         { title: "Zaw (Rabvee)", acquired: false, rankThirty: false, researched: false },
         { title: "Zaw (Dokrahm)", acquired: false, rankThirty: false, researched: false },
+        { title: "Destreza Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Gram Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Paracesis", acquired: false, rankThirty: false, researched: false },
+        { title: "Pupacyst", acquired: false, rankThirty: false, researched: false },
+        { title: "Falcor", acquired: false, rankThirty: false, researched: false },
+        { title: "Skiajati", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -485,6 +499,7 @@ let emptyList = {
         { title: "Raplak", acquired: false, rankThirty: false, researched: false },
         { title: "Shwaak", acquired: false, rankThirty: false, researched: false },
         { title: "Granmu", acquired: false, rankThirty: false, researched: false },
+        { title: "Rahn", acquired: false, rankThirty: false, researched: false },
       ],
     },
   ]
