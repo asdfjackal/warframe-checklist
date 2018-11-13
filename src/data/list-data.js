@@ -62,6 +62,7 @@ let listData = {
         { title: "Excalibur Umbra", acquisition: "The Sacrifice (Quest)", mr: 0 },
         { title: "Limbo Prime", acquisition: "Relic", mr: 4 },
         { title: "Revenant", acquisition: "Mask of the Revenant (Quest)", mr: 0 },
+        { title: "Garuda", acquisition: "Vox Solaris (Quest)", mr: 0 },
       ],
     },
     {
@@ -175,6 +176,8 @@ let listData = {
         { title: "Veldt", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 8 },
         { title: "Rubico Prime", acquisition: "Relic", mr: 12 },
         { title: "Phantasma", acquisition: "Market", mr: 9 },
+        { title: "Nagantaka", acquisition: "Market", mr: 9 },
+        { title: "Battacor", acquisition: "Energy Lab", lab:"Energy Lab", mr: 10 },
       ],
     },
     {
@@ -273,6 +276,7 @@ let listData = {
         { title: "Hystrix", acquisition: "Market", mr: 7 },
         { title: "Zylok", acquisition: "The Pyrus Project Event", mr: 6 },
         { title: "Pyrana Prime", acquisition: "Relic", mr: 13 },
+        { title: "Ocucor", acquisition: "Energy Lab", lab: "Energy Lab", mr: 8 },
       ],
     },
     {
@@ -317,7 +321,7 @@ let listData = {
         { title: "Fragor", acquisition: "Market", mr: 2 },
         { title: "Fragor Prime", acquisition: "Vaulted", vaulted: true, mr: 7 },
         { title: "Furax", acquisition: "Market" },
-        { title: "Furax Wraith", acquisition: "Cestus Bounty" },
+        { title: "Furax Wraith", acquisition: "Cetus Bounty" },
         { title: "Galatine", acquisition: "Market", mr: 3 },
         { title: "Galatine Prime", acquisition: "Vaulted", vaulted: true, mr: 13 },
         { title: "Gazal Machete", acquisition: "Tenno Lab", lab: "Tenno Lab", mr: 5 },
@@ -427,6 +431,8 @@ let listData = {
         { title: "Pupacyst", acquisition: "Bio Lab", lab: "Bio Lab", mr: 7 },
         { title: "Falcor", acquisition: "Energy Lab", lab: "Energy Lab", mr: 8 },
         { title: "Skiajati", acquisition: "The Sacrifice (Quest)", mr: 11 },
+        { title: "Kreska", acquisition: "Energy Lab", lab: "Energy Lab", mr: 6 },
+
       ],
     },
     {
@@ -452,6 +458,7 @@ let listData = {
         { title: "Sahsa Kubrow", acquisition: "Incubator Segment" },
         { title: "Smeeta Kavat", acquisition: "Incubator Segment" },
         { title: "Sunika Kubrow", acquisition: "Incubator Segment" },
+        { title: "Oxylus", acquisition: "The Business" },
       ],
     },
     {
