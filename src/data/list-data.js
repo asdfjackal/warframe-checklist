@@ -277,6 +277,10 @@ let listData = {
         { title: "Zylok", acquisition: "The Pyrus Project Event", mr: 6 },
         { title: "Pyrana Prime", acquisition: "Relic", mr: 13 },
         { title: "Ocucor", acquisition: "Energy Lab", lab: "Energy Lab", mr: 8 },
+        { title: "Kitgun (Catchmoon)", acquisition: "Rude Zuud (Fortuna)" },
+        { title: "Kitgun (Gaze)", acquisition: "Rude Zuud (Fortuna)" },
+        { title: "Kitgun (Rattleguts)", acquisition: "Rude Zuud (Fortuna)" },
+        { title: "Kitgun (Tombfinger)", acquisition: "Rude Zuud (Fortuna)" },
       ],
     },
     {
@@ -459,6 +463,9 @@ let listData = {
         { title: "Smeeta Kavat", acquisition: "Incubator Segment" },
         { title: "Sunika Kubrow", acquisition: "Incubator Segment" },
         { title: "Oxylus", acquisition: "The Business" },
+        { title: "Moa (Lambeo)", acquisition: "Legs (Fortuna)" },
+        { title: "Moa (Oloro)", acquisition: "Legs (Fortuna)" },
+        { title: "Moa (Para)", acquisition: "Legs (Fortuna)" },
       ],
     },
     {
@@ -506,6 +513,14 @@ let listData = {
         { title: "Shwaak", acquisition: "Quill Onkko"},
         { title: "Granmu", acquisition: "Quill Onkko"},
         { title: "Rahn", acquisition: "Quill Onkko"},
+      ],
+    },
+    {
+      title : "K-Drives",
+      list: [
+        { title: "Bad Baby", acquisition: "Ventkids (Fortuna)" },
+        { title: "Flatbelly", acquisition: "Ventkids (Fortuna)" },
+        { title: "Needlenose", acquisition: "Ventkids (Fortuna)" },
       ],
     },
   ]

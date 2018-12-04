@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2018.11.12.18.06",
+  version : "2018.11.12.18.06-a",
   lists : [
     {
       title : "Frames",
@@ -279,6 +279,10 @@ let emptyList = {
         { title: "Zylok", acquired: false, rankThirty: false, researched: false },
         { title: "Pyrana Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Ocucor", acquired: false, rankThirty: false, researched: false },
+        { title: "Kitgun (Catchmoon)", acquired: false, rankThirty: false, researched: false },
+        { title: "Kitgun (Gaze)", acquired: false, rankThirty: false, researched: false },
+        { title: "Kitgun (Rattleguts)", acquired: false, rankThirty: false, researched: false },
+        { title: "Kitgun (Tombfinger)", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -460,6 +464,9 @@ let emptyList = {
         { title: "Smeeta Kavat", acquired: false, rankThirty: false, researched: false },
         { title: "Sunika Kubrow", acquired: false, rankThirty: false, researched: false },
         { title: "Oxylus", acquired: false, rankThirty: false, researched: false },
+        { title: "Moa (Lambeo)", acquired: false, rankThirty: false, researched: false },
+        { title: "Moa (Oloro)", acquired: false, rankThirty: false, researched: false },
+        { title: "Moa (Para)", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -507,6 +514,14 @@ let emptyList = {
         { title: "Shwaak", acquired: false, rankThirty: false, researched: false },
         { title: "Granmu", acquired: false, rankThirty: false, researched: false },
         { title: "Rahn", acquired: false, rankThirty: false, researched: false },
+      ],
+    },
+    {
+      title : "K-Drives",
+      list: [
+        { title: "Bad Baby", acquired: false, rankThirty: false, researched: false },
+        { title: "Flatbelly", acquired: false, rankThirty: false, researched: false },
+        { title: "Needlenose", acquired: false, rankThirty: false, researched: false },
       ],
     },
   ]
