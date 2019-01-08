@@ -7,7 +7,7 @@ let listData = {
         { title: "Ash Prime", acquisition: "Vaulted", vaulted: true },
         { title: "Atlas", acquisition: "Jordas Precept", components: "Jordas Golem" },
         { title: "Banshee", acquisition: "Tenno Lab", lab: "Tenno Lab" },
-        { title: "Banshee Prime", acquisition: "Relic", mr: 8 },
+        { title: "Banshee Prime", acquisition: "Vaulted", vaulted: true, mr: 8 },
         { title: "Chroma", acquisition: "New Strange(Quest)", components: "Junctions" },
         { title: "Ember", acquisition: "Market", components: "Sargas Ruk" },
         { title: "Ember Prime", acquisition: "Vaulted", vaulted: true },
@@ -212,7 +212,7 @@ let listData = {
         { title: "Dual Cestra", acquisition: "Energy Lab", lab: "Energy Lab", mr: 7 },
         { title: "Dual Toxocyst", acquisition: "Bio Lab", lab: "Bio Lab", mr: 11 },
         { title: "Embolist", acquisition: "Bio Lab", lab: "Bio Lab", mr: 9 },
-        { title: "Euphona Prime", acquisition: "Relic", mr: 14 },
+        { title: "Euphona Prime", acquisition: "Vaulted", vaulted: true, mr: 14 },
         { title: "Furis", acquisition: "Market", mr: 2 },
         { title: "Gammacor", acquisition: "Market", mr: 2 },
         { title: "Hikou", acquisition: "Market", mr: 2 },
@@ -432,7 +432,7 @@ let listData = {
     {
       title : "Companions",
       list: [
-        { title: "Helios Prime", acquisition: "Relic", mr: 8 },
+        { title: "Helios Prime", acquisition: "Vaulted", vaulted: true, mr: 8 },
         { title: "Djinn", acquisition: "Bio Lab", lab: "Bio Lab" },
         { title: "Helios", acquisition: "Energy Lab", lab: "Energy Lab" },
         { title: "Carrier", acquisition: "Market" },
