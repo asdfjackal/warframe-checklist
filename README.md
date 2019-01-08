@@ -41,12 +41,10 @@ The majority of functionality in the checklist comes from two files:
 emptylist.js contains a template that is used for creating data for new users and updating data when the list changes  
 list-data.js contains data for item acquisition as well as MR requirements and limitations (vaulted, unobtainable, etc.)
 
-**Important:** Any time a change is made to emptylist.js, the version property at the top of the file needs to be updated. If the version number has changed, update it to reflect the Warframe PC client version visible in the middle of the image below.  
+**Important:** Any time a change is made to emptylist.js, the version property at the top of the file needs to be updated. If the version number has changed, update it to reflect the Warframe PC client version visible in the login screen.  
 If the version has not changed, take the current version and add the suffix "-a", "-b", "-c" as needed.
 
 Ex: if the current version is "2017.05.31.15.04-a", change it to "2017.05.31.15.04-b"
-
-[![found here](https://puu.sh/w6Zl2/3024b678c0.jpg)](https://puu.sh/w6Zl2/3024b678c0.jpg)
 
 ### Change an item's acquisition data
 

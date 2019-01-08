@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2018.10.12.17.40",
+  version : "2018.11.12.18.06-a",
   lists : [
     {
       title : "Frames",
@@ -63,6 +63,8 @@ let emptyList = {
         { title: "Excalibur Umbra", acquired: false, rankThirty: false, researched: false },
         { title: "Limbo Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Revenant", acquired: false, rankThirty: false, researched: false },
+        { title: "Garuda", acquired: false, rankThirty: false, researched: false },
+
       ],
     },
     {
@@ -176,6 +178,8 @@ let emptyList = {
         { title: "Veldt", acquired: false, rankThirty: false, researched: false },
         { title: "Rubico Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Phantasma", acquired: false, rankThirty: false, researched: false },
+        { title: "Nagantaka", acquired: false, rankThirty: false, researched: false },
+        { title: "Battacor", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -274,6 +278,11 @@ let emptyList = {
         { title: "Hystrix", acquired: false, rankThirty: false, researched: false },
         { title: "Zylok", acquired: false, rankThirty: false, researched: false },
         { title: "Pyrana Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Ocucor", acquired: false, rankThirty: false, researched: false },
+        { title: "Kitgun (Catchmoon)", acquired: false, rankThirty: false, researched: false },
+        { title: "Kitgun (Gaze)", acquired: false, rankThirty: false, researched: false },
+        { title: "Kitgun (Rattleguts)", acquired: false, rankThirty: false, researched: false },
+        { title: "Kitgun (Tombfinger)", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -428,6 +437,7 @@ let emptyList = {
         { title: "Pupacyst", acquired: false, rankThirty: false, researched: false },
         { title: "Falcor", acquired: false, rankThirty: false, researched: false },
         { title: "Skiajati", acquired: false, rankThirty: false, researched: false },
+        { title: "Kreska", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -453,6 +463,10 @@ let emptyList = {
         { title: "Sahsa Kubrow", acquired: false, rankThirty: false, researched: false },
         { title: "Smeeta Kavat", acquired: false, rankThirty: false, researched: false },
         { title: "Sunika Kubrow", acquired: false, rankThirty: false, researched: false },
+        { title: "Oxylus", acquired: false, rankThirty: false, researched: false },
+        { title: "Moa (Lambeo)", acquired: false, rankThirty: false, researched: false },
+        { title: "Moa (Oloro)", acquired: false, rankThirty: false, researched: false },
+        { title: "Moa (Para)", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -500,6 +514,14 @@ let emptyList = {
         { title: "Shwaak", acquired: false, rankThirty: false, researched: false },
         { title: "Granmu", acquired: false, rankThirty: false, researched: false },
         { title: "Rahn", acquired: false, rankThirty: false, researched: false },
+      ],
+    },
+    {
+      title : "K-Drives",
+      list: [
+        { title: "Bad Baby", acquired: false, rankThirty: false, researched: false },
+        { title: "Flatbelly", acquired: false, rankThirty: false, researched: false },
+        { title: "Needlenose", acquired: false, rankThirty: false, researched: false },
       ],
     },
   ]
