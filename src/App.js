@@ -85,7 +85,7 @@ class App extends Component {
         <div className="App-header">
           <h2>Warframe Checklist</h2>
           <p>Last Updated For:</p>
-          <p>CHIMERA | 2018.10.12.17.40</p>
+          <p>FORTUNA | 2019.01.09.15.16</p>
         </div>
         <br />
         <i className="alert">Attention Tenno: The developers of this tool are taking a break from Warframe until further notice. If you notice an item is missing please contact asdfJackal on twitter or the github repository and we will add it ASAP. </i><br /><br />
@@ -95,7 +95,7 @@ class App extends Component {
         <i>If this happens please reset by clicking here: <button onClick={this.reset}>Reset Local Storage</button></i><br/ >
         <p className="App-intro">
           Created by asdfjackal and CommissarXyz<br />
-          Major thanks to github users <a href="https://github.com/RylaiSlyfe">RylaiSlyfe</a> and <a href="https://github.com/pgbconfirmit">pgbconfirmit</a> for helping to keep the list up to date!<br />
+          Major thanks to github users <a href="https://github.com/RylaiSlyfe">RylaiSlyfe</a>, <a href="https://github.com/Jakub-Michalak">Jakub-Michalak</a>, and <a href="https://github.com/pgbconfirmit">pgbconfirmit</a> for helping to keep the list up to date!<br />
           Contribute at <a href="https://github.com/asdfjackal/warframe-checklist">github</a> or follow development at <a href="https://twitter.com/asdfJackal">twitter</a>
         </p>
         <BrowserCompatability>
