@@ -63,8 +63,8 @@ let listData = {
         { title: "Limbo Prime", acquisition: "Relic", mr: 4 },
         { title: "Revenant", acquisition: "Mask of the Revenant (Quest)", mr: 0 },
         { title: "Garuda", acquisition: "Vox Solaris (Quest)", mr: 0 },
-        { title: "Baruuk", acquisition: "Little Duck (Vox Solaris Syndicate)", mr: 0 },
         { title: "Mesa Prime", acquisition: "Relic", mr: 2 },
+        { title: "Baruuk", acquisition: "Little Duck (Vox Solaris Syndicate)", mr: 0 },
       ],
     },
     {
@@ -284,8 +284,8 @@ let listData = {
         { title: "Kitgun (Gaze)", acquisition: "Rude Zuud (Fortuna)" },
         { title: "Kitgun (Rattleguts)", acquisition: "Rude Zuud (Fortuna)" },
         { title: "Kitgun (Tombfinger)", acquisition: "Rude Zuud (Fortuna)" },
-        { title: "Plinx", acquisition: "Market", mr: 6 },
         { title: "Akjagara Prime", acquisition: "Relic", mr: 12},
+        { title: "Plinx", acquisition: "Market", mr: 6 },
       ],
     },
     {
@@ -441,8 +441,8 @@ let listData = {
         { title: "Falcor", acquisition: "Energy Lab", lab: "Energy Lab", mr: 8 },
         { title: "Skiajati", acquisition: "The Sacrifice (Quest)", mr: 11 },
         { title: "Kreska", acquisition: "Energy Lab", lab: "Energy Lab", mr: 6 },
-        { title: "Galvacord", acquisition: "Market", mr: 6 },
         { title: "Redeemer Prime", acquisition: "Relic", mr: 10 },
+        { title: "Galvacord", acquisition: "Market", mr: 6 },
 
       ],
     },
@@ -523,7 +523,6 @@ let listData = {
         { title: "Cantic", acquisition: "Little Duck"},
         { title: "Lega", acquisition: "Little Duck"},
         { title: "Klamora", acquisition: "Little Duck"},
-        
       ],
     },
     {

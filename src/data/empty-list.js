@@ -64,9 +64,8 @@ let emptyList = {
         { title: "Limbo Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Revenant", acquired: false, rankThirty: false, researched: false },
         { title: "Garuda", acquired: false, rankThirty: false, researched: false },
-        { title: "Baruuk", acquired: false, rankThirty: false, researched: false },
         { title: "Mesa Prime", acquired: false, rankThirty: false, researched: false },
-
+        { title: "Baruuk", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -182,7 +181,7 @@ let emptyList = {
         { title: "Phantasma", acquired: false, rankThirty: false, researched: false },
         { title: "Nagantaka", acquired: false, rankThirty: false, researched: false },
         { title: "Battacor", acquired: false, rankThirty: false, researched: false },
-        { title: "Exergis, acquired: false, rankThirty: false, researched: false },
+        { title: "Exergis", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -286,8 +285,8 @@ let emptyList = {
         { title: "Kitgun (Gaze)", acquired: false, rankThirty: false, researched: false },
         { title: "Kitgun (Rattleguts)", acquired: false, rankThirty: false, researched: false },
         { title: "Kitgun (Tombfinger)", acquired: false, rankThirty: false, researched: false },
-        { title: "Plinx", acquired: false, rankThirty: false, researched: false },
         { title: "Akjagara Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Plinx", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -443,8 +442,8 @@ let emptyList = {
         { title: "Falcor", acquired: false, rankThirty: false, researched: false },
         { title: "Skiajati", acquired: false, rankThirty: false, researched: false },
         { title: "Kreska", acquired: false, rankThirty: false, researched: false },
-        { title: "Galvacord", acquired: false, rankThirty: false, researched: false },
         { title: "Redeemer Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Galvacord", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
