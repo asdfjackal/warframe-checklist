@@ -63,6 +63,8 @@ let listData = {
         { title: "Limbo Prime", acquisition: "Relic", mr: 4 },
         { title: "Revenant", acquisition: "Mask of the Revenant (Quest)", mr: 0 },
         { title: "Garuda", acquisition: "Vox Solaris (Quest)", mr: 0 },
+        { title: "Baruuk", acquisition: "Little Duck (Vox Solaris Syndicate)", mr: 0 },
+        { title: "Mesa Prime", acquisition: "Relic", mr: 2 },
       ],
     },
     {
@@ -79,7 +81,7 @@ let listData = {
         { title: "Braton Vandal", acquisition: "Sanctuary Onslaught(Game Mode)", mr: 4 },
         { title: "Burston", acquisition: "Market" },
         { title: "Burston Prime", acquisition: "Relic", mr: 12 },
-        { title: "Buzlok", acquisition: "Chem Lab", mr: 11 },
+        { title: "Buzlok", acquisition: "Chem Lab", lab: "Chem Lab", mr: 11 },
         { title: "Cernos", acquisition: "Market", mr: 6 },
         { title: "Cernos Prime", acquisition: "Vaulted", vaulted: true, mr: 12 },
         { title: "Convectrix", acquisition: "Energy Lab", lab: "Energy Lab", mr: 7 },
@@ -178,6 +180,7 @@ let listData = {
         { title: "Phantasma", acquisition: "Market", mr: 9 },
         { title: "Nagantaka", acquisition: "Market", mr: 9 },
         { title: "Battacor", acquisition: "Energy Lab", lab:"Energy Lab", mr: 10 },
+        { title: "Exergis", acquisition: "Market", mr: 8},
       ],
     },
     {
@@ -281,6 +284,8 @@ let listData = {
         { title: "Kitgun (Gaze)", acquisition: "Rude Zuud (Fortuna)" },
         { title: "Kitgun (Rattleguts)", acquisition: "Rude Zuud (Fortuna)" },
         { title: "Kitgun (Tombfinger)", acquisition: "Rude Zuud (Fortuna)" },
+        { title: "Plinx", acquisition: "Market", mr: 6 },
+        { title: "Akjagara Prime", acquisition: "Relic", mr: 12},
       ],
     },
     {
@@ -436,6 +441,8 @@ let listData = {
         { title: "Falcor", acquisition: "Energy Lab", lab: "Energy Lab", mr: 8 },
         { title: "Skiajati", acquisition: "The Sacrifice (Quest)", mr: 11 },
         { title: "Kreska", acquisition: "Energy Lab", lab: "Energy Lab", mr: 6 },
+        { title: "Galvacord", acquisition: "Market", mr: 6 },
+        { title: "Redeemer Prime", acquisition: "Relic", mr: 10 },
 
       ],
     },
@@ -513,6 +520,10 @@ let listData = {
         { title: "Shwaak", acquisition: "Quill Onkko"},
         { title: "Granmu", acquisition: "Quill Onkko"},
         { title: "Rahn", acquisition: "Quill Onkko"},
+        { title: "Cantic", acquisition: "Little Duck"},
+        { title: "Lega", acquisition: "Little Duck"},
+        { title: "Klamora", acquisition: "Little Duck"},
+        
       ],
     },
     {
