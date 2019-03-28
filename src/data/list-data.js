@@ -65,6 +65,7 @@ let listData = {
         { title: "Garuda", acquisition: "Vox Solaris (Quest)", mr: 0 },
         { title: "Mesa Prime", acquisition: "Relic", mr: 2 },
         { title: "Baruuk", acquisition: "Little Duck (Vox Solaris Syndicate)", mr: 0 },
+        { title: "Hildryn", acquisition:"Little Duck", components: "Exploiter Orb" },
       ],
     },
     {
@@ -136,7 +137,7 @@ let listData = {
         { title: "Sancti Tigris", acquisition: "New Loka(Syndicate)", mr: 12 },
         { title: "Secura Penta", acquisition: "Perrin Sequence(Syndicate)", mr: 12 },
         { title: "Simulor", acquisition: "Cephalon Simaris", mr: 5 },
-        { title: "Snipetron", acquisition: "Unobtainable", unobtainable: true },
+        { title: "Snipetron", acquisition: "Operation: Plague Star", mr: 0 },
         { title: "Snipetron Vandal", acquisition: "Invasion", mr: 5 },
         { title: "Sobek", acquisition: "Market", mr: 7 },
         { title: "Soma", acquisition: "Market", mr: 6 },
@@ -181,6 +182,7 @@ let listData = {
         { title: "Nagantaka", acquisition: "Market", mr: 9 },
         { title: "Battacor", acquisition: "Energy Lab", lab:"Energy Lab", mr: 10 },
         { title: "Exergis", acquisition: "Market", mr: 8},
+        { title: "Prisma Grinlok", acquisition: "Baro Ki'Teer", mr: 11 },
       ],
     },
     {
@@ -443,6 +445,9 @@ let listData = {
         { title: "Kreska", acquisition: "Energy Lab", lab: "Energy Lab", mr: 6 },
         { title: "Redeemer Prime", acquisition: "Relic", mr: 10 },
         { title: "Galvacord", acquisition: "Market", mr: 6 },
+        { title: "Cobra & Crane", acquisition: "Market", mr: 10 },
+        { title: "Wolf Sledge", acquisition: "Wolf of Saturn Six (Nightwave)", mr: 7 },
+        { title: "Tatsu", acquisition: "Market", mr: 7 },
 
       ],
     },
@@ -510,6 +515,7 @@ let listData = {
         { title: "Imperator Vandal", acquisition:"Fomorian Sabotage" },
         { title: "Phaedra", acquisition:"Market" },
         { title: "Velocitus", acquisition:"Tenno Lab", lab: "Tenno Lab" },
+        { title: "Larkspur", acquisition:"Tenno Lab", lab: "Tenno Lab" },
       ],
     },
     {
@@ -531,6 +537,7 @@ let listData = {
         { title: "Bad Baby", acquisition: "Ventkids (Fortuna)" },
         { title: "Flatbelly", acquisition: "Ventkids (Fortuna)" },
         { title: "Needlenose", acquisition: "Ventkids (Fortuna)" },
+        { title: "Runway", acquisition: "Ventkids (Fortuna)" },
       ],
     },
   ]
