@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2019.03.25.15.02",
+  version : "2019.04.02.12.23",
   lists : [
     {
       title : "Frames",
@@ -67,6 +67,7 @@ let emptyList = {
         { title: "Mesa Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Baruuk", acquired: false, rankThirty: false, researched: false },
         { title: "Hildryn", acquired: false, rankThirty: false, researched: false },
+        { title: "Equinox Prime", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -184,6 +185,7 @@ let emptyList = {
         { title: "Battacor", acquired: false, rankThirty: false, researched: false },
         { title: "Exergis", acquired: false, rankThirty: false, researched: false },
         { title: "Prisma Grinlok", acquired: false, rankThirty: false, researched: false},
+        { title: "Stradavar Prime", acquired: false, rankThirty: false, researched: false},
       ],
     },
     {
@@ -449,6 +451,7 @@ let emptyList = {
         { title: "Cobra & Crane", acquired: false, rankThirty: false, researched: false },
         { title: "Wolf Sledge", acquired: false, rankThirty: false, researched: false },
         { title: "Tatsu", acquired: false, rankThirty: false, researched: false },
+        { title: "Tipedo Prime", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
