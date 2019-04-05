@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2019.01.09.15.16",
+  version : "2019.04.02.12.23",
   lists : [
     {
       title : "Frames",
@@ -66,6 +66,8 @@ let emptyList = {
         { title: "Garuda", acquired: false, rankThirty: false, researched: false },
         { title: "Mesa Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Baruuk", acquired: false, rankThirty: false, researched: false },
+        { title: "Hildryn", acquired: false, rankThirty: false, researched: false },
+        { title: "Equinox Prime", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -182,6 +184,8 @@ let emptyList = {
         { title: "Nagantaka", acquired: false, rankThirty: false, researched: false },
         { title: "Battacor", acquired: false, rankThirty: false, researched: false },
         { title: "Exergis", acquired: false, rankThirty: false, researched: false },
+        { title: "Prisma Grinlok", acquired: false, rankThirty: false, researched: false},
+        { title: "Stradavar Prime", acquired: false, rankThirty: false, researched: false},
       ],
     },
     {
@@ -444,6 +448,10 @@ let emptyList = {
         { title: "Kreska", acquired: false, rankThirty: false, researched: false },
         { title: "Redeemer Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Galvacord", acquired: false, rankThirty: false, researched: false },
+        { title: "Cobra & Crane", acquired: false, rankThirty: false, researched: false },
+        { title: "Wolf Sledge", acquired: false, rankThirty: false, researched: false },
+        { title: "Tatsu", acquired: false, rankThirty: false, researched: false },
+        { title: "Tipedo Prime", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -497,6 +505,7 @@ let emptyList = {
         { title: "Imperator Vandal", acquired: false, rankThirty: false, researched: false },
         { title: "Phaedra", acquired: false, rankThirty: false, researched: false },
         { title: "Velocitus", acquired: false, rankThirty: false, researched: false },
+        { title: "Larkspur", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -531,6 +540,7 @@ let emptyList = {
         { title: "Bad Baby", acquired: false, rankThirty: false, researched: false },
         { title: "Flatbelly", acquired: false, rankThirty: false, researched: false },
         { title: "Needlenose", acquired: false, rankThirty: false, researched: false },
+        { title: "Runway", acquired: false, rankThirty: false, researched: false },
       ],
     },
   ]
