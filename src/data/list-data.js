@@ -67,6 +67,7 @@ let listData = {
         { title: "Baruuk", acquisition: "Little Duck (Vox Solaris Syndicate)", mr: 0 },
         { title: "Hildryn", acquisition:"Little Duck", components: "Exploiter Orb" },
         { title: "Equinox Prime", acquisition: "Relic", mr: 5 },
+        { title: "Wukong Prime", acquisition: "Relic", mr: 5 },
       ],
     },
     {
@@ -185,6 +186,7 @@ let listData = {
         { title: "Exergis", acquisition: "Market", mr: 8},
         { title: "Prisma Grinlok", acquisition: "Baro Ki'Teer", mr: 11 },
         { title: "Stradavar Prime", acquisition: "Relic", mr: 12 },
+        { title: "Zhuge Prime", acquisition: "Relic", mr: 14 },
       ],
     },
     {
@@ -451,7 +453,7 @@ let listData = {
         { title: "Wolf Sledge", acquisition: "Wolf of Saturn Six (Nightwave)", mr: 7 },
         { title: "Tatsu", acquisition: "Market", mr: 7 },
         { title: "Tipedo Prime", acquisition: "Relic", mr: 10 },
-
+        { title: "Ninkondi Prime", acquisition: "Relic", mr: 10 },
       ],
     },
     {
