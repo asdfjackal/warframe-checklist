@@ -69,6 +69,7 @@ let emptyList = {
         { title: "Hildryn", acquired: false, rankThirty: false, researched: false },
         { title: "Equinox Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Wukong Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Wisp", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -188,6 +189,8 @@ let emptyList = {
         { title: "Prisma Grinlok", acquired: false, rankThirty: false, researched: false},
         { title: "Stradavar Prime", acquired: false, rankThirty: false, researched: false},
         { title: "Zhuge Prime", acquired: false, rankThirty: false, researched: false},
+        { title: "Fulmin", acquired: false, rankThirty: false, researched: false},
+        { title: "Komorex", acquired: false, rankThirty: false, researched: false},
       ],
     },
     {
@@ -293,6 +296,7 @@ let emptyList = {
         { title: "Kitgun (Tombfinger)", acquired: false, rankThirty: false, researched: false },
         { title: "Akjagara Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Plinx", acquired: false, rankThirty: false, researched: false },
+        { title: "Cyanex", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
