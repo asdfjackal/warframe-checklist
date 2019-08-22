@@ -296,6 +296,7 @@ let listData = {
         { title: "Cyanex", acquisition: "Energy Lab", lab: "Energy Lab", mr: 6 },
         { title: "Akvasto Prime", acquisition: "Relic", mr: 12 },
         { title: "Prisma Twin Gremlins", acquisition: "Baro Ki'Teer", mr: 11 },
+        { title: "Quatz", acquisition: "Market", mr: 9 },
       ],
     },
     {

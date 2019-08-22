@@ -85,7 +85,7 @@ class App extends Component {
         <div className="App-header">
           <h2>Warframe Checklist</h2>
           <p>Last Updated For:</p>
-          <p>THE JOVIAN CONCORD | 2019.07.07.11.52</p>
+          <p>THE JOVIAN CONCORD | 2019.08.14.13.10</p>
         </div>
         <br />
         <i className="alert">Attention Tenno: The developers of this tool are taking a break from Warframe until further notice. If you notice an item is missing please contact asdfJackal on twitter or the github repository and we will add it ASAP. </i><br /><br />
