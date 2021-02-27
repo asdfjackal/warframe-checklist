@@ -586,6 +586,11 @@ let emptyList = {
         { title: "Phaedra", acquired: false, rankThirty: false, researched: false },
         { title: "Velocitus", acquired: false, rankThirty: false, researched: false },
         { title: "Larkspur", acquired: false, rankThirty: false, researched: false },
+        { title: "Cortege", acquired: false, rankThirty: false, researched: false },
+        { title: "Kuva Ayanga", acquired: false, rankThirty: false, researched: false },
+        { title: "Mausolon", acquired: false, rankThirty: false, researched: false },
+        { title: "Morgha", acquired: false, rankThirty: false, researched: false },
+        { title: "Prisma Dual Decurion", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
