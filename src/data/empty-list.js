@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2019.04.02.12.23",
+  version : "2021.02.23.17.05",
   lists : [
     {
       title : "Frames",
@@ -68,6 +68,19 @@ let emptyList = {
         { title: "Baruuk", acquired: false, rankThirty: false, researched: false },
         { title: "Hildryn", acquired: false, rankThirty: false, researched: false },
         { title: "Equinox Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Atlas Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Gauss", acquired: false, rankThirty: false, researched: false },
+        { title: "Grendel", acquired: false, rankThirty: false, researched: false },
+        { title: "Inaros Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Ivara Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Lavos", acquired: false, rankThirty: false, researched: false },
+        { title: "Nezha Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Octavia Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Protea", acquired: false, rankThirty: false, researched: false },
+        { title: "Titania Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Wisp", acquired: false, rankThirty: false, researched: false },
+        { title: "Wukong Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Xaku", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
