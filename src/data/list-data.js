@@ -620,6 +620,7 @@ let listData = {
         { title: "Flatbelly", acquisition: "Ventkids (Fortuna)" },
         { title: "Needlenose", acquisition: "Ventkids (Fortuna)" },
         { title: "Runway", acquisition: "Ventkids (Fortuna)" },
+        { title: "Dead Drop", acquisition: "Dead Drop race (Cambion Drift)" },
       ],
     },
   ]

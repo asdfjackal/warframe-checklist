@@ -621,6 +621,7 @@ let emptyList = {
         { title: "Flatbelly", acquired: false, rankThirty: false, researched: false },
         { title: "Needlenose", acquired: false, rankThirty: false, researched: false },
         { title: "Runway", acquired: false, rankThirty: false, researched: false },
+        { title: "Dead Drop", acquired: false, rankThirty: false, researched: false },
       ],
     },
   ]
