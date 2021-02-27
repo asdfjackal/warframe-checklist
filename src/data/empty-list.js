@@ -629,6 +629,13 @@ let emptyList = {
         { title: "Dead Drop", acquired: false, rankThirty: false, researched: false },
       ],
     },
+    {
+      title : "Necramech",
+      list: [
+        { title: "Voidrig", acquired: false, rankThirty: false, researched: false },
+        { title: "Bonewidow", acquired: false, rankThirty: false, researched: false },
+      ],
+    },
   ]
 };
 

@@ -628,6 +628,13 @@ let listData = {
         { title: "Dead Drop", acquisition: "Dead Drop race (Cambion Drift)" },
       ],
     },
+    {
+      title : "Necramech",
+      list: [
+        { title: "Voidrig", acquisition: "Necraloid", components: "Isolation Vault Bounties"},
+        { title: "Bonewidow", acquisition: "Necraloid", components: "Isolation Vault Bounties"},
+      ],
+    },
   ]
 };
 
