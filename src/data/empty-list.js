@@ -227,6 +227,7 @@ let emptyList = {
         { title: "Tenora Prime", acquired: false, rankThirty: false, researched: false},
         { title: "Trumna", acquired: false, rankThirty: false, researched: false},
         { title: "Zhuge Prime", acquired: false, rankThirty: false, researched: false},
+        { title: "Baza Prime", acquired: false, rankThirty: false, researched: false},
       ],
     },
     {
