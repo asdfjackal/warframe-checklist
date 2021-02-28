@@ -538,6 +538,7 @@ let listData = {
         { title: "Wyrm", acquisition: "Market" },
         { title: "Wyrm Prime", acquisition: "Vaulted", vaulted: true },
         { title: "Oxylus", acquisition: "The Business" },
+        { title: "Dethcube Prime", acquisition: "Relic" },
       ],
     },
     {
@@ -547,7 +548,7 @@ let listData = {
         { title: "Burst Laser", usage: "Shade", acquisition: "Sentinel", mr: 0 },
         { title: "Deconstructor", usage: "Helios", acquisition: "Sentinel", mr: 0 },
         { title: "Deconstructor Prime", usage: "Helios Prime", acquisition: "Sentinel", mr: 8 },
-        { title: "Deth Machine Rifle", usage: "Deathcube", acquisition: "Sentinel", mr: 0 },
+        { title: "Deth Machine Rifle", usage: "Dethcube", acquisition: "Sentinel", mr: 0 },
         { title: "Laser Rifle", usage: "Wyrm", acquisition: "Sentinel", mr: 0 },
         { title: "Multron", usage: "Oxylus", acquisition: "Sentinel", mr: 3 },
         { title: "Prime Laser Rifle", usage: "Wyrm Prime", acquisition: "Sentinel", mr: 0 },
@@ -559,6 +560,8 @@ let listData = {
         { title: "Vulcax", usage: "Moa", acquisition: "Legs (Fortuna)", mr: 14 },
         { title: "Cryotra", usage: "Moa", acquisition: "Legs (Fortuna)", mr: 3 },
         { title: "Tazicor", usage: "Moa", acquisition: "Legs (Fortuna)", mr: 3 },
+        { title: "Deth Machine Rifle Prime", usage: "Dethcube", acquisition: "Sentinel", mr: 0 },
+        { title: "Helstrum", usage: "Moa", acquisition: "Legs (Fortuna)", mr: 0 },
       ],
     },
     {

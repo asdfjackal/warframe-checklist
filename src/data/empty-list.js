@@ -535,6 +535,8 @@ let emptyList = {
         { title: "Wyrm", acquired: false, rankThirty: false, researched: false },
         { title: "Wyrm Prime", acquired: false, rankThirty: false, researched: false },
         { title: "Oxylus", acquired: false, rankThirty: false, researched: false },
+        { title: "Dethcube Prime", acquired: false, rankThirty: false, researched: false },
+        { title: "Prisma Shade", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {
@@ -547,7 +549,7 @@ let emptyList = {
         { title: "Deth Machine Rifle", acquired: false, rankThirty: false, researched: false},
         { title: "Laser Rifle", acquired: false, rankThirty: false, researched: false},
         { title: "Multron", acquired: false, rankThirty: false, researched: false},
-        { title: "Prime Laser Rifle", acquired: false, rankThirty: false, researched: false},
+        { title: "Laser Rifle Prime", acquired: false, rankThirty: false, researched: false},
         { title: "Prisma Burst Laser", acquired: false, rankThirty: false, researched: false},
         { title: "Stinger", acquired: false, rankThirty: false, researched: false},
         { title: "Sweeper", acquired: false, rankThirty: false, researched: false},
@@ -556,6 +558,8 @@ let emptyList = {
         { title: "Vulcax", acquired: false, rankThirty: false, researched: false},
         { title: "Cryotra", acquired: false, rankThirty: false, researched: false},
         { title: "Tazicor", acquired: false, rankThirty: false, researched: false},
+        { title: "Deth Machine Rifle Prime", acquired: false, rankThirty: false, researched: false},
+        { title: "Helstrum", acquired: false, rankThirty: false, researched: false},
       ],
     },
     {
