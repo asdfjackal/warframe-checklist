@@ -552,7 +552,7 @@ let listData = {
         { title: "Deth Machine Rifle", usage: "Dethcube", acquisition: "Sentinel", mr: 0 },
         { title: "Laser Rifle", usage: "Wyrm", acquisition: "Sentinel", mr: 0 },
         { title: "Multron", usage: "Oxylus", acquisition: "Sentinel", mr: 3 },
-        { title: "Prime Laser Rifle", usage: "Wyrm Prime", acquisition: "Sentinel", mr: 0 },
+        { title: "Laser Rifle Prime", usage: "Wyrm Prime", acquisition: "Sentinel", mr: 0 },
         { title: "Prisma Burst Laser", usage: "Prisma Shade", acquisition: "Sentinel", mr: 0 },
         { title: "Stinger", usage: "Djinn", acquisition: "Sentinel", mr: 0 },
         { title: "Sweeper", usage: "Carrier", acquisition: "Sentinel", mr: 0 },
