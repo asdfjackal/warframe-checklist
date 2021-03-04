@@ -5,7 +5,7 @@ class Item extends Component {
   constructor(props){
     super(props);
     this.toggleAcquired = this.toggleAcquired.bind(this);
-    this.toggleRankThirty = this.toggleRankThirty.bind(this);
+    this.toggleMaxRank = this.toggleMaxRank.bind(this);
     this.toggleResearched = this.toggleResearched.bind(this);
   }
 
@@ -13,8 +13,8 @@ class Item extends Component {
     this.props.updateFunction(this.props.category, this.props.item.title, "acquired", !this.props.item.acquired)
   }
 
-  toggleRankThirty(){
-    this.props.updateFunction(this.props.category, this.props.item.title, "rankThirty", !this.props.item.rankThirty)
+  toggleMaxRank(){
+    this.props.updateFunction(this.props.category, this.props.item.title, "maxRank", !this.props.item.maxRank)
   }
 
   toggleResearched(){
@@ -51,7 +51,7 @@ class Item extends Component {
           }
         </td>
         <td className="itemCheckbox" onClick={this.toggleAcquired}><input type="checkbox" readOnly={true} checked={this.props.item.acquired}/></td>
-        <td className="itemCheckbox" onClick={this.toggleRankThirty}><input type="checkbox" readOnly={true} checked={this.props.item.rankThirty}/></td>
+        <td className="itemCheckbox" onClick={this.toggleMaxRank}><input type="checkbox" readOnly={true} checked={this.props.item.maxRank}/></td>
         {
           (this.props.itemData.lab !== undefined) ?
           <td className="itemCheckbox" onClick={this.toggleResearched}>
