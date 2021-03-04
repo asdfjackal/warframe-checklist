@@ -26,13 +26,13 @@ class ItemList extends Component {
     let acquired = this.props.list.list.filter((item) => {
       return item.acquired;
     }).length;
-    let rankThirty = this.props.list.list.filter((item) => {
-      return item.rankThirty;
+    let maxRank = this.props.list.list.filter((item) => {
+      return item.maxRank;
     }).length;
     let researched = this.props.list.list.filter((item) => {
       return item.researched;
     }).length;
-    return <div>{acquired}/{total} Acquired | {rankThirty}/{total} Rank 30 | {researched}/{researchTotal} Researched</div>;
+    return <div>{acquired}/{total} Acquired | {maxRank}/{total} Max Rank | {researched}/{researchTotal} Researched</div>;
   }
 
   itemList = (items) => {
@@ -62,7 +62,7 @@ class ItemList extends Component {
     });
     if( this.props.hideMaxRank ){
       items = items.filter((item) => {
-        return !item.rankThirty;
+        return !item.maxRank;
       });
     }
 
@@ -86,7 +86,7 @@ class ItemList extends Component {
               <tr>
                 <th>Item</th>
                 <th className="itemCheckbox">Acquired(<span className="tooltip" title="Check this box when your have finished fabricating the item of have aquired it by other means">?</span>)</th>
-                <th className="itemCheckbox">Rank 30</th>
+                <th className="itemCheckbox">Max Rank(<span className="tooltip" title="Max rank for most items is 30 but Necramech and some weapons can be leveled up to 40">?</span>)</th>
                 <th className="itemCheckbox">Researched(<span className="tooltip" title="Check this when your clan has finished researching the item">?</span>)</th>
                 {this.acquisitionColumns()}
               </tr>
