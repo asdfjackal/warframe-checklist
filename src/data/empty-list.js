@@ -1,5 +1,5 @@
 let emptyList = {
-  version : "2021.02.23.17.05",
+  version : "2021.02.23.17.05-a",
   lists : [
     {
       title : "Frames",
@@ -592,10 +592,10 @@ let emptyList = {
     {
       title : "MOAs",
       list: [
-        { title: "Moa (Lambeo)", acquired: false, rankThirty: false, researched: false },
-        { title: "Moa (Oloro)", acquired: false, rankThirty: false, researched: false },
-        { title: "Moa (Para)", acquired: false, rankThirty: false, researched: false },
-        { title: "Moa (Nychus)", acquired: false, rankThirty: false, researched: false },
+        { title: "Lambeo", acquired: false, rankThirty: false, researched: false },
+        { title: "Oloro", acquired: false, rankThirty: false, researched: false },
+        { title: "Para", acquired: false, rankThirty: false, researched: false },
+        { title: "Nychus", acquired: false, rankThirty: false, researched: false },
       ],
     },
     {

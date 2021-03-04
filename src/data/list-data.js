@@ -594,10 +594,10 @@ let listData = {
     {
       title : "MOAs",
       list: [
-        { title: "Moa (Lambeo)", acquisition: "Legs (Fortuna)" },
-        { title: "Moa (Oloro)", acquisition: "Legs (Fortuna)" },
-        { title: "Moa (Para)", acquisition: "Legs (Fortuna)" },
-        { title: "Moa (Nychus)", acquisition: "Legs (Fortuna)" },
+        { title: "Lambeo", acquisition: "Legs (Fortuna)" },
+        { title: "Oloro", acquisition: "Legs (Fortuna)" },
+        { title: "Para", acquisition: "Legs (Fortuna)" },
+        { title: "Nychus", acquisition: "Legs (Fortuna)" },
       ],
     },
     {
