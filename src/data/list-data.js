@@ -67,6 +67,7 @@ let listData = {
         { title: "Baruuk", acquisition: "Little Duck (Vox Solaris Syndicate)", mr: 0 },
         { title: "Hildryn", acquisition:"Little Duck", components: "Exploiter Orb" },
         { title: "Equinox Prime", acquisition: "Relic", mr: 5 },
+        { title: "Wisp", acquisition: "Ropalolyst", mr: 0 },
       ],
     },
     {
@@ -185,6 +186,8 @@ let listData = {
         { title: "Exergis", acquisition: "Market", mr: 8},
         { title: "Prisma Grinlok", acquisition: "Baro Ki'Teer", mr: 11 },
         { title: "Stradavar Prime", acquisition: "Relic", mr: 12 },
+        { title: "Fulmin", acquisition: "Market", mr: 8 },
+        { title: "Komorex", acquisition: "Energy Lab", lab:"Energy Lab", mr: 8 },
       ],
     },
     {
@@ -290,6 +293,7 @@ let listData = {
         { title: "Kitgun (Tombfinger)", acquisition: "Rude Zuud (Fortuna)" },
         { title: "Akjagara Prime", acquisition: "Relic", mr: 12},
         { title: "Plinx", acquisition: "Market", mr: 6 },
+        { title: "Cyanex", acquisition: "Energy Lab", lab: "Energy Lab", mr: 8 },
       ],
     },
     {
