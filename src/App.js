@@ -88,7 +88,7 @@ class App extends Component {
           <p>SISTERS OF PARVOS | 2021.07.09.09.18</p>
         </div>
         <br />
-        <i className="alert">Attention Tenno: The developers of this tool are taking a break from Warframe until further notice. If you notice an item is missing please contact asdfJackal on twitter or the github repository and we will add it ASAP. </i><br /><br />
+        <i className="alert">Attention Tenno: Some Weapons may be missing, as they are un obtainable at the time of updating. </i><br /><br />
 
         <i>Please Note: Clearing your Cache or Cookies will delete your progress.</i><br />
         <i>WARNING: I am still fixing bugs and data may sometimes become corrupted or lost</i><br/ >
